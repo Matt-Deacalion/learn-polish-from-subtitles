@@ -1,0 +1,4966 @@
+﻿0
+00:00:02,700 --> 00:00:06,599
+.:: Napisy24.pl - Wprost od tłumaczy ::.
+
+1
+00:00:06,699 --> 00:00:12,000
+<i>Ziemia</i>
+<i>Rok 1988</i>
+
+2
+00:00:15,300 --> 00:00:19,299
+<i>Super Hity, cz. 1</i>
+
+3
+00:00:36,900 --> 00:00:37,900
+Peter.
+
+4
+00:00:39,500 --> 00:00:42,500
+Mama chce z tobą porozmawiać.
+
+5
+00:00:45,000 --> 00:00:48,799
+Chodź, Pete.
+Ściągaj to ustrojstwo.
+
+6
+00:01:22,599 --> 00:01:26,900
+Kochanie, dlaczego znowu
+biłeś się z kolegami?
+
+7
+00:01:28,500 --> 00:01:30,099
+Peter?
+
+8
+00:01:30,199 --> 00:01:34,000
+Bo zabili żabkę.
+A ona nic nie zrobiła.
+
+9
+00:01:34,000 --> 00:01:36,500
+A oni bili ją kijem.
+
+10
+00:01:37,800 --> 00:01:42,800
+Jesteś taki sam jak twój tata.
+Nawet wyglądasz jak on.
+
+11
+00:01:44,199 --> 00:01:46,199
+A on był aniołem...
+
+12
+00:01:47,699 --> 00:01:50,300
+- Czystym światłem...
+- Mer?
+
+13
+00:01:50,500 --> 00:01:55,900
+- Może daj Peterowi prezent?
+- Oczywiście.
+
+14
+00:01:59,099 --> 00:02:03,699
+- Proszę.
+- Spakuję ci go.
+
+15
+00:02:08,100 --> 00:02:10,699
+Otwórz go,
+kiedy mnie już nie będzie.
+
+16
+00:02:12,300 --> 00:02:17,600
+Twój dziadek
+dobrze się tobą zaopiekuje.
+
+17
+00:02:17,800 --> 00:02:21,600
+Póki twój tata
+po ciebie nie wróci.
+
+18
+00:02:25,399 --> 00:02:27,399
+Weź mnie za rękę.
+
+19
+00:02:30,399 --> 00:02:31,600
+Peter.
+
+20
+00:02:33,199 --> 00:02:36,300
+- Dalej, Pete.
+- Weź mnie za rękę!
+
+21
+00:02:42,399 --> 00:02:43,399
+Mamo?
+
+22
+00:02:43,899 --> 00:02:46,800
+Nie!
+
+23
+00:02:47,000 --> 00:02:48,199
+Nie! Mamo!
+
+24
+00:02:48,399 --> 00:02:51,800
+- Chodź.
+- Nie!
+
+25
+00:02:52,399 --> 00:02:55,199
+- Zostań tu, proszę.
+- Nie...
+
+26
+00:02:56,600 --> 00:02:58,100
+Dobrze?
+
+27
+00:03:17,399 --> 00:03:18,699
+Nie!
+
+28
+00:03:35,199 --> 00:03:37,000
+Mamo!
+
+29
+00:04:07,899 --> 00:04:10,699
+<i>26 lat później</i>
+
+30
+00:04:11,100 --> 00:04:16,299
+<i>Morag</i>
+<i>Opuszczona planeta</i>
+
+31
+00:06:18,600 --> 00:06:20,600
+<i>Super Hity, cz. 1</i>
+
+32
+00:06:20,799 --> 00:06:29,000
+{Y:b}{C:$aaeeff}.:: GrupaHatak.pl ::.
+
+33
+00:06:29,899 --> 00:06:34,299
+{Y:b}{C:$aaeeff}STRAŻNICY GALAKTYKI
+
+34
+00:06:34,399 --> 00:06:40,200
+{Y:b}{C:$aaeeff}Tłumaczenie:
+kat
+
+35
+00:06:40,299 --> 00:06:44,700
+{Y:b}{C:$aaeeff}Korekta:
+Igloo666
+
+36
+00:08:27,299 --> 00:08:30,600
+- Zostaw to!
+- Ee... Siema?
+
+37
+00:08:31,600 --> 00:08:33,900
+- Już!
+- Spokojnie. Się robi.
+
+38
+00:08:34,000 --> 00:08:35,900
+Nie ma sprawy.
+
+39
+00:08:36,799 --> 00:08:39,599
+- Skąd się o tym dowiedziałeś?
+- Nie wiem, co to jest.
+
+40
+00:08:39,700 --> 00:08:42,500
+Zbieram taki złom.
+Szperałem sobie w okolicy.
+
+41
+00:08:42,599 --> 00:08:45,200
+Nie wyglądasz na takiego.
+Ubierasz się jak Łowca!
+
+42
+00:08:45,299 --> 00:08:48,000
+To tylko ciuchy.
+Łapy precz, wojowniczy żół...
+
+43
+00:08:48,200 --> 00:08:49,200
+Jak się nazywasz?!
+
+44
+00:08:49,299 --> 00:08:51,599
+Peter Quill, tak?
+Wyluzuj, koleś.
+
+45
+00:08:51,700 --> 00:08:53,000
+- Idziemy!
+- Co?
+
+46
+00:08:53,099 --> 00:08:56,500
+- Ronan cię przesłucha.
+- Ej, wiesz co?
+
+47
+00:08:56,599 --> 00:08:58,799
+Może znasz mój alias.
+
+48
+00:09:00,599 --> 00:09:02,500
+Star-Lord.
+
+49
+00:09:03,099 --> 00:09:03,900
+Kto?
+
+50
+00:09:04,000 --> 00:09:07,200
+Star-Lord, koleś.
+Legendarny banita?
+
+51
+00:09:07,599 --> 00:09:09,700
+- A może wy?
+- Idziemy!
+
+52
+00:09:10,599 --> 00:09:12,299
+A szlag by to.
+
+53
+00:11:03,599 --> 00:11:05,099
+Peter?
+
+54
+00:11:09,099 --> 00:11:14,599
+- Co się stało?
+- O, cześć...
+
+55
+00:11:15,599 --> 00:11:17,400
+- Bereet.
+- Bereet!
+
+56
+00:11:17,599 --> 00:11:20,500
+Powiem szczerze:
+zapomniałem, że tu jesteś.
+
+57
+00:11:44,000 --> 00:11:47,000
+<i>W części Imperium Kree</i>
+<i>wybuchły dziś zamieszki,</i>
+
+58
+00:11:47,000 --> 00:11:49,200
+<i>mające na celu</i>
+<i>oprotestowanie traktatu pokojowego</i>
+
+59
+00:11:49,299 --> 00:11:52,799
+<i>zawartego pomiędzy Imperatorem</i>
+<i>a xandariańską Novą Prime.</i>
+
+60
+00:11:55,799 --> 00:11:57,200
+Ktoś dzwoni.
+
+61
+00:11:58,099 --> 00:11:59,700
+- Nie odbieraj!
+<i>- Quill?</i>
+
+62
+00:12:02,200 --> 00:12:03,500
+Cześć, Yondu.
+
+63
+00:12:03,599 --> 00:12:07,000
+<i>Jestem na Morag.</i>
+<i>I nie widzę tu ani Kuli, ani ciebie.</i>
+
+64
+00:12:07,099 --> 00:12:09,299
+Byłem w okolicy.
+Chciałem oszczędzić ci kłopotu.
+
+65
+00:12:09,400 --> 00:12:13,400
+<i>- Gdzie jesteś, chłopcze?</i>
+- Szalenie mi przykro, ale ci nie powiem.
+
+66
+00:12:13,400 --> 00:12:15,500
+<i>- Zasuwałem jak dziki przy tym!</i>
+- Czyżby?
+
+67
+00:12:15,599 --> 00:12:18,200
+- Parę telefonów to "zasuwanie"?
+<i>- A teraz chcesz mnie orżnąć!</i>
+
+68
+00:12:18,299 --> 00:12:22,200
+<i>Nie robimy sobie takich rzeczy.</i>
+<i>Jesteśmy Łowcami. Mamy kodeks!</i>
+
+69
+00:12:22,200 --> 00:12:24,700
+No. I mówi on:
+"okradaj wszystkich".
+
+70
+00:12:24,700 --> 00:12:26,700
+<i>- Kiedy zgarnąłem cię z Terry...</i>
+- "Zgarnąłeś".
+
+71
+00:12:26,799 --> 00:12:28,500
+<i>- moje chłopaki chciały cię zjeść.</i>
+- Serio?
+
+72
+00:12:28,599 --> 00:12:31,500
+<i>Jeszcze nie jedli Terranina.</i>
+<i>Nie pozwoliłem im.</i>
+
+73
+00:12:31,599 --> 00:12:35,599
+<i>Przeżyłeś dzięki mnie!</i>
+<i>Znajdę cię i...</i>
+
+74
+00:12:35,700 --> 00:12:38,500
+Ogłoście, że jest za niego nagroda.
+Czterdzieści klocków.
+
+75
+00:12:38,599 --> 00:12:40,299
+- Ale ma być żywy.
+- Jasne, szefie.
+
+76
+00:12:40,400 --> 00:12:41,799
+- Żywy?
+- Tak kazałem.
+
+77
+00:12:41,900 --> 00:12:45,299
+Mówiłem, kiedy go zgarnialiśmy,
+że trzeba go dostarczyć zgodnie z umową!
+
+78
+00:12:45,500 --> 00:12:48,799
+Był towarem!
+Zawsze miałeś do niego słabość!
+
+79
+00:12:48,900 --> 00:12:51,400
+Tylko do ciebie ją mam,
+jak widać!
+
+80
+00:12:52,000 --> 00:12:59,200
+Nie zamartwiaj się losem pana Quilla.
+Gdy go tu przywloką, osobiście go zabiję.
+
+81
+00:13:00,200 --> 00:13:05,299
+Musimy się jednak martwić tym,
+kto jeszcze interesuje się tą Kulą.
+
+82
+00:13:09,400 --> 00:13:16,299
+<i>Mroczny Astrocyt</i>
+<i>Statek wojenny Kree</i>
+
+83
+00:13:25,700 --> 00:13:31,799
+<i>Zwą mnie terrorystą,</i>
+<i>radykałem i fanatykiem,</i>
+
+84
+00:13:32,099 --> 00:13:36,000
+<i>ponieważ przestrzegam</i>
+<i>starożytnych praw mego ludu, Kree,</i>
+
+85
+00:13:36,200 --> 00:13:39,500
+<i>i karzę tych,</i>
+<i>którzy je łamią.</i>
+
+86
+00:13:39,700 --> 00:13:42,500
+<i>Ponieważ nie wybaczę</i>
+<i>twojemu ludowi tego,</i>
+
+87
+00:13:42,500 --> 00:13:49,700
+<i>że odebrał życie memu ojcu,</i>
+<i>dziadowi i pradziadowi.</i>
+
+88
+00:13:50,700 --> 00:13:55,299
+<i>Tysiącletnia wojna między nami</i>
+<i>nie zostanie zapomniana!</i>
+
+89
+00:13:55,400 --> 00:13:58,599
+<i>Nie możesz!</i>
+<i>Nasz rząd podpisał traktat pokojowy.</i>
+
+90
+00:13:59,799 --> 00:14:02,099
+Mój rząd
+nie ma za grosz wstydu.
+
+91
+00:14:03,200 --> 00:14:07,099
+Jesteście chorobą,
+wy i ta wasza xandariańska kultura.
+
+92
+00:14:07,400 --> 00:14:10,900
+Nigdy nie będziesz
+panował na Xandarze.
+
+93
+00:14:11,000 --> 00:14:15,000
+Nie.
+Uleczę go!
+
+94
+00:14:28,200 --> 00:14:31,200
+Ronanie,
+Korath powrócił.
+
+95
+00:14:31,400 --> 00:14:36,700
+To złodziej i bandyta,
+który zwie siebie Star-Lordem.
+
+96
+00:14:36,900 --> 00:14:39,400
+Odkryliśmy, że zawarł on umowę.
+
+97
+00:14:39,500 --> 00:14:43,900
+Miał dostarczyć Kulę
+pośrednikowi zwanemu Brokerem.
+
+98
+00:14:44,099 --> 00:14:47,500
+Obiecałem Thanosowi,
+że odzyskam Kulę dla niego.
+
+99
+00:14:47,599 --> 00:14:50,599
+A w zamian za nią
+zniszczy Xandar.
+
+100
+00:14:51,099 --> 00:14:55,000
+Nebulo, udaj się na Xandar
+i przywieź mi Kulę.
+
+101
+00:14:55,299 --> 00:14:57,500
+- To zaszczyt.
+- I twoja zguba.
+
+102
+00:14:58,900 --> 00:15:03,200
+Nie chcesz pokazywać się naszemu ojcu
+bez jego zdobyczy.
+
+103
+00:15:03,299 --> 00:15:06,400
+Jestem córką Thanosa.
+Tak samo jak ty.
+
+104
+00:15:06,599 --> 00:15:07,900
+Ale to ja znam Xandar.
+
+105
+00:15:08,000 --> 00:15:11,799
+- Ronan zarządził już, bym to ja...
+- Nie przemawiaj w mym imieniu!
+
+106
+00:15:13,299 --> 00:15:15,299
+Nie zawiedziesz mnie.
+
+107
+00:15:19,099 --> 00:15:21,299
+Czy kiedykolwiek zawiodłam?
+
+108
+00:15:31,299 --> 00:15:34,599
+<i>Xandar</i>
+<i>Stolica Imperium Nova</i>
+
+109
+00:15:36,099 --> 00:15:39,799
+<i>Xandarianie.</i>
+<i>Co za zgraja oferm.</i>
+
+110
+00:15:40,000 --> 00:15:45,299
+<i>Gonią jak szaleni</i>
+<i>między bzdetem a pierdołą.</i>
+
+111
+00:15:45,799 --> 00:15:46,799
+<i>Żałosne.</i>
+
+112
+00:15:46,900 --> 00:15:47,900
+Sam zobacz.
+
+113
+00:15:48,000 --> 00:15:52,000
+Nas mają za przestępców, a tego typa nie.
+Zbrodnia przeciwko stylizacji.
+
+114
+00:15:52,099 --> 00:15:54,900
+A ten stworek?
+Myśli, że jest taki zajebisty.
+
+115
+00:15:55,000 --> 00:15:58,500
+Nie wolno czitować ze starym!
+Bądź samodzielny, mały potworze.
+
+116
+00:15:58,700 --> 00:16:00,599
+Spójrz na pana Czarusia.
+
+117
+00:16:01,299 --> 00:16:05,000
+Gdzie masz żonę, staruchu?
+Co za obleśny zbok.
+
+118
+00:16:06,200 --> 00:16:07,200
+Co nie, Groot?
+
+119
+00:16:07,700 --> 00:16:08,799
+Groot?
+
+120
+00:16:08,900 --> 00:16:13,099
+Nie pij z fontanny, kretynie.
+To obrzydliwe!
+
+121
+00:16:13,500 --> 00:16:16,599
+Tak, napiłeś się. Widziałem.
+Dlaczego kłamiesz?
+
+122
+00:16:20,299 --> 00:16:22,200
+Chyba coś mamy.
+
+123
+00:16:22,400 --> 00:16:26,200
+No, człeniu, jak bardzo
+chcą cię znaleźć?
+
+124
+00:16:26,299 --> 00:16:27,900
+<i>Poszukiwany żywy.</i>
+<i>Nagroda: 40000.</i>
+
+125
+00:16:28,000 --> 00:16:32,000
+40 tysięcy unitów?
+Będziemy krezusami, Groot!
+
+126
+00:16:46,099 --> 00:16:48,299
+- Panie Quill.
+- Panie Broker.
+
+127
+00:16:48,700 --> 00:16:49,700
+Oto Kula.
+
+128
+00:16:51,599 --> 00:16:53,799
+- Zgodnie ze zleceniem.
+- Gdzie jest Yondu?
+
+129
+00:16:53,900 --> 00:16:56,700
+Pozdrawia. Chciał przyjechać.
+Kazał przekazać,
+
+130
+00:16:56,900 --> 00:17:01,099
+że masz najfajniejsze brwi
+w naszej branży.
+
+131
+00:17:01,299 --> 00:17:03,099
+Co to w ogóle jest?
+
+132
+00:17:03,099 --> 00:17:06,500
+Nie ujawniam nazwisk klientów
+ani detali dotyczących zamówień.
+
+133
+00:17:06,500 --> 00:17:08,500
+Wiesz, prawie mnie zabito.
+
+134
+00:17:08,699 --> 00:17:11,599
+Ryzyko zawodowe
+wkalkulowane w specyfikę profesji.
+
+135
+00:17:11,699 --> 00:17:16,000
+Był tam jakiś roboświrus
+na usługach gościa nazwiskiem Ronan.
+
+136
+00:17:16,000 --> 00:17:18,699
+Ronan?
+Przykro mi, panie Quill.
+
+137
+00:17:19,099 --> 00:17:23,800
+Nie mieszam się jednak
+w transakcje powiązane z Ronanem!
+
+138
+00:17:23,800 --> 00:17:25,000
+Co to za jeden?
+
+139
+00:17:25,099 --> 00:17:28,400
+Fanatyczny Kree,
+rozwścieczony faktem zawarcia pokoju.
+
+140
+00:17:28,500 --> 00:17:34,099
+Nie spocznie, póki xandariańska kultura
+nie zostanie obrócona w pył!
+
+141
+00:17:34,199 --> 00:17:37,300
+- Daj spokój.
+- Wolę z nim nie zadzierać.
+
+142
+00:17:37,400 --> 00:17:40,599
+- A co z zadzieraniem ze mną?
+- Żegnam, panie Quill.
+
+143
+00:17:42,500 --> 00:17:43,900
+Mieliśmy umowę, koleś!
+
+144
+00:17:50,300 --> 00:17:52,000
+O co poszło?
+
+145
+00:17:53,300 --> 00:17:58,400
+Koleś wycofał się z naszej umowy.
+Nienawidzę kłamliwych ludzi.
+
+146
+00:17:58,699 --> 00:18:01,599
+Jestem Peter Quill.
+Mówią mi Star-Lord.
+
+147
+00:18:01,900 --> 00:18:06,300
+- Sprawiasz wrażenie człowieka honoru.
+- Nie powiedziałbym.
+
+148
+00:18:07,199 --> 00:18:11,699
+Ludzie cały czas tak o mnie mówią,
+ale ja bym tak o sobie nie po...
+
+149
+00:18:30,500 --> 00:18:31,599
+Nie taki był plan.
+
+150
+00:18:34,199 --> 00:18:36,300
+Do worka z nim!
+Ładuj!
+
+151
+00:18:36,500 --> 00:18:40,300
+Nie ją! Jego!
+Naucz się rozróżniać płeć!
+
+152
+00:18:42,099 --> 00:18:43,800
+Nie wolno używać zębów!
+
+153
+00:18:47,199 --> 00:18:48,900
+Spokojnie!
+
+154
+00:19:17,699 --> 00:19:19,599
+Głupcze.
+Trzeba było wyciągnąć wnioski.
+
+155
+00:19:19,699 --> 00:19:21,800
+Nie potrafię.
+Mam z tym problem.
+
+156
+00:19:30,000 --> 00:19:31,599
+Co, do...
+
+157
+00:19:34,900 --> 00:19:38,599
+Przestań się szczerzyć, kretynie.
+Zawodowcy tak nie robią.
+
+158
+00:19:39,300 --> 00:19:40,800
+Jaja sobie robisz.
+
+159
+00:20:00,300 --> 00:20:05,000
+Żyję dla prostych przyjemności.
+Na przykład zaraz sprawię, że zaboli.
+
+160
+00:20:10,000 --> 00:20:12,000
+Skręcaj się, mikrusie.
+
+161
+00:20:14,199 --> 00:20:17,199
+Odrosną ci, cholerny durniu.
+Przestań się mazać.
+
+162
+00:20:25,599 --> 00:20:28,800
+<i>Osobniku 89P13, rzuć broń.</i>
+
+163
+00:20:29,500 --> 00:20:30,900
+Szlag.
+
+164
+00:20:31,099 --> 00:20:34,199
+Na mocy uprawnień Nova Corps
+zostajecie aresztowani
+
+165
+00:20:34,300 --> 00:20:37,699
+<i>za spowodowanie zagrożenia życia</i>
+<i>oraz zniszczenie własności publicznej.</i>
+
+166
+00:20:37,699 --> 00:20:40,000
+Czy to nie Star-Łotr?
+
+167
+00:20:40,099 --> 00:20:43,300
+- Star-Lord.
+- Przepraszam. "Lord".
+
+168
+00:20:43,500 --> 00:20:47,099
+Zwinąłem go kiedyś za drobną kradzież.
+Ma własny kryptonim.
+
+169
+00:20:47,199 --> 00:20:48,199
+Proszę się odsunąć.
+
+170
+00:20:48,300 --> 00:20:50,199
+Weź, facet.
+To gangsterska ksywa.
+
+171
+00:20:50,300 --> 00:20:52,000
+Uspokój się, koleżko.
+
+172
+00:20:52,099 --> 00:20:54,699
+Kryptonimy są fajne.
+I wcale nie są dziwne.
+
+173
+00:20:55,699 --> 00:20:57,199
+Faszyści...
+
+174
+00:21:08,900 --> 00:21:10,300
+<i>Kwatera Główna Sił Zbrojnych</i>
+
+175
+00:21:10,400 --> 00:21:14,099
+<i>Ronan niszczy nasze placówki</i>
+<i>w całej galaktyce.</i>
+
+176
+00:21:14,300 --> 00:21:18,199
+Zdawałoby się, że wywoła to
+jakąkolwiek reakcję ze strony Kree.
+
+177
+00:21:18,300 --> 00:21:21,300
+<i>Podpisaliśmy twój traktat, Novo Prime.</i>
+<i>Czego jeszcze chcesz?</i>
+
+178
+00:21:21,400 --> 00:21:25,500
+Przynajmniej potępiającego oświadczenia
+ze strony Imperium Kree!
+
+179
+00:21:25,699 --> 00:21:29,599
+Ronan morduje dzieci.
+Całe rodziny.
+
+180
+00:21:29,800 --> 00:21:34,099
+<i>To wasza sprawa.</i>
+<i>A ja mam inne obowiązki.</i>
+
+181
+00:21:35,599 --> 00:21:36,599
+Gnój.
+
+182
+00:21:38,900 --> 00:21:43,400
+W końcu dobre wieści.
+Pojmaliśmy wspólniczkę Ronana.
+
+183
+00:21:44,000 --> 00:21:44,900
+Gamora.
+
+184
+00:21:45,000 --> 00:21:48,099
+Chirurgicznie zmodyfikowana.
+Wytrenowana zabójczyni.
+
+185
+00:21:48,300 --> 00:21:50,800
+Adoptowana córka
+Szalonego Tytana, Thanosa.
+
+186
+00:21:51,300 --> 00:21:54,300
+Niedawno oddana przezeń wraz z siostrą,
+Nebulą, na usługi Ronanowi.
+
+187
+00:21:54,500 --> 00:21:57,699
+Prawdopodobnie więc Thanos i Ronan
+blisko współpracują.
+
+188
+00:21:57,900 --> 00:22:02,099
+Osobnik 89P13.
+Mówi na siebie "Rocket".
+
+189
+00:22:02,400 --> 00:22:06,599
+Rezultat nielegalnych modyfikacji
+dokonanych na niższej formie życia.
+
+190
+00:22:07,000 --> 00:22:10,699
+- Co to ma być?
+- Mówią na to coś "Groot".
+
+191
+00:22:10,900 --> 00:22:14,800
+Humanoidalna roślina.
+Towarzyszy osobnikowi 89P13
+
+192
+00:22:14,900 --> 00:22:18,099
+jako osobisty
+wystrój wnętrz i ochroniarz.
+
+193
+00:22:18,099 --> 00:22:20,699
+Peter Jason Quill.
+Z planety Terra.
+
+194
+00:22:21,000 --> 00:22:24,000
+Wychowanek grupy najemników
+zwanych Łowcami,
+
+195
+00:22:24,199 --> 00:22:26,000
+dowodzonej przez Yondu Udontę.
+
+196
+00:22:26,099 --> 00:22:30,599
+Bardzo przepraszam.
+Nie ogarniam tej maszyny.
+
+197
+00:22:30,800 --> 00:22:32,800
+Co za banda frajerów.
+
+198
+00:22:33,400 --> 00:22:35,800
+Przetransportujcie ich na Kyln.
+
+199
+00:22:36,400 --> 00:22:38,599
+<i>Kyln</i>
+<i>Więzienie o podwyższonym nadzorze</i>
+
+200
+00:22:38,699 --> 00:22:42,000
+<i>Psiarnia na ogół chce</i>
+<i>tylko przestrzegać przepisów,</i>
+
+201
+00:22:42,199 --> 00:22:45,599
+<i>ale ci tutaj</i>
+<i>są skorumpowani i okrutni.</i>
+
+202
+00:22:45,900 --> 00:22:49,699
+Ale spoko, to nie mój problem.
+Długo tu nie posiedzę.
+
+203
+00:22:49,900 --> 00:22:53,300
+Prysnąłem z 22 różnych więzień.
+Tu będzie tak samo.
+
+204
+00:22:53,500 --> 00:22:56,000
+Masz szczęście, bo żeby nie
+ta szmata, to razem z Grootem
+
+205
+00:22:56,099 --> 00:22:58,000
+właśnie odbieralibyśmy
+za ciebie nagrodę.
+
+206
+00:22:58,099 --> 00:23:01,099
+A ciebie ćwiartowaliby
+Yondu i panowie Łowcy.
+
+207
+00:23:01,199 --> 00:23:03,300
+Wielu próbowało mnie już zabić.
+
+208
+00:23:03,400 --> 00:23:06,699
+I na pewno nie beknę
+przez drzewko i gadającego szopa.
+
+209
+00:23:06,800 --> 00:23:07,500
+Stać.
+
+210
+00:23:07,500 --> 00:23:09,300
+- Co to jest "szop"?
+- Szop?
+
+211
+00:23:09,500 --> 00:23:13,599
+- Ty jesteś szopem, idioto.
+- Ja jestem jedyny w swoim rodzaju.
+
+212
+00:23:14,000 --> 00:23:17,400
+Tamta Kula...
+Nuklearna walizeczka, Arka Przymierza,
+
+213
+00:23:17,500 --> 00:23:19,900
+trochę tej figurki
+z "Sokoła maltańskiego"?
+
+214
+00:23:20,000 --> 00:23:21,699
+- Co to jest?
+- Jestem Groot.
+
+215
+00:23:21,800 --> 00:23:23,400
+No i?
+O co chodzi z Kulą?
+
+216
+00:23:23,500 --> 00:23:25,800
+Nie mam nic do powiedzenia
+złodziejowi bez honoru.
+
+217
+00:23:25,900 --> 00:23:29,400
+Cóż za słowa w ustach
+sługuski profesjonalnego ludobójcy.
+
+218
+00:23:29,500 --> 00:23:31,400
+No.
+Wiem, kim jesteś.
+
+219
+00:23:31,500 --> 00:23:35,199
+- Każdy z mózgiem to wie.
+- Tak, wiemy to.
+
+220
+00:23:35,300 --> 00:23:37,800
+- Kim ona jest?
+- Jestem Groot.
+
+221
+00:23:37,900 --> 00:23:39,800
+Tak, wspomniałeś już.
+
+222
+00:23:40,500 --> 00:23:44,699
+Nie kradłam Kuli dla Ronana.
+Zdradziłam go.
+
+223
+00:23:44,800 --> 00:23:47,800
+Zamierzałam sprzedać ją
+niezależnemu nabywcy.
+
+224
+00:23:48,900 --> 00:23:50,199
+Jestem Groot.
+
+225
+00:23:50,400 --> 00:23:54,699
+Ta wypowiedź jest tak samo fascynująca
+jak 89 razy temu.
+
+226
+00:23:54,800 --> 00:23:59,400
+- Ent chyba się zaciął.
+- Nie potrafi mówić tak sprawnie jak my.
+
+227
+00:23:59,400 --> 00:24:03,400
+Jego słófnictwo
+ogranicza się do "jestem" i "Groot".
+
+228
+00:24:03,500 --> 00:24:08,099
+- W tej konkretnie kolejności.
+- Robi się nudny jak flaki z olejem.
+
+229
+00:24:10,300 --> 00:24:11,300
+Odłóż to.
+
+230
+00:24:13,699 --> 00:24:16,199
+Słuchaj no, niebieski gnoju.
+Odkładaj słuchawki!
+
+231
+00:24:16,199 --> 00:24:17,900
+Są moje.
+Mają być w depozycie!
+
+232
+00:24:18,099 --> 00:24:19,900
+Kaseta i walkman też są moje!
+
+233
+00:24:23,500 --> 00:24:26,400
+"Hooked on a Feeling",
+Blue Swede, wydana w 1973 r.!
+
+234
+00:24:26,500 --> 00:24:28,000
+To moja piosenka!
+
+235
+00:25:47,800 --> 00:25:50,699
+- Będziesz pierwsza!
+- Morderczyni!
+
+236
+00:25:51,199 --> 00:25:53,699
+Pierwszy po ciebie przyjdę, Gamora!
+Jesteś trupem!
+
+237
+00:25:53,800 --> 00:25:58,000
+Ścierwo!
+
+238
+00:26:01,000 --> 00:26:04,199
+Mówiłem.
+Wszyscy ją znają.
+
+239
+00:26:04,300 --> 00:26:08,400
+Rodziny wielu więźniów zginęły
+z rąk Ronana i jego bandziorów.
+
+240
+00:26:08,500 --> 00:26:11,000
+- Wyżyje tu najwyżej dzień.
+- Morderczyni!
+
+241
+00:26:11,599 --> 00:26:15,300
+- Ale klawisze ją ochronią?
+- Mają uniemożliwić nam ucieczkę.
+
+242
+00:26:15,400 --> 00:26:17,500
+Mają gdzieś to,
+co się dzieje w środku.
+
+243
+00:26:17,599 --> 00:26:21,099
+Koszmary, jakie mnie czekają,
+
+244
+00:26:21,300 --> 00:26:24,900
+będą pięknymi snami
+w porównaniu z tym, co już przeszłam.
+
+245
+00:26:26,000 --> 00:26:28,699
+O ja, nowe mięsko!
+
+246
+00:26:28,900 --> 00:26:34,000
+Przyrządzę cię w galarecie
+i bardzo dokładnie...
+
+247
+00:26:38,699 --> 00:26:44,699
+Uzmysłowię wam pewien fakt.
+Ten typek to nasza zdobycz.
+
+248
+00:26:45,400 --> 00:26:49,500
+Jeśli zechcecie położyć na nim łapy,
+będziecie mieli do czynienia z nami.
+
+249
+00:26:50,099 --> 00:26:55,599
+A nasze łapy...
+przejdą przez was.
+
+250
+00:27:05,599 --> 00:27:10,599
+- Jestem tu z nimi.
+- Nienawidzę cię...
+
+251
+00:27:11,099 --> 00:27:13,900
+Nigdzie się nie schronisz!
+
+252
+00:27:26,800 --> 00:27:29,199
+Jesteś trupem!
+
+253
+00:27:55,500 --> 00:28:00,199
+Dajcie ją pod prysznic.
+Krew lepiej tam schodzi.
+
+254
+00:28:12,900 --> 00:28:14,800
+Dokąd leziesz, Quill?
+
+255
+00:28:19,500 --> 00:28:25,199
+Oto twój wyrok śmierci
+za zbrodnie przeciw galaktyce!
+
+256
+00:28:25,300 --> 00:28:26,500
+Jak śmiesz?
+
+257
+00:28:32,699 --> 00:28:34,500
+Wiecie, kim jestem?
+
+258
+00:28:35,300 --> 00:28:38,800
+Jesteś Drax.
+Niszczyciel.
+
+259
+00:28:39,599 --> 00:28:44,699
+- I dlaczego mnie tak nazywają?
+- Zgładziłeś tak wielu sługusów Ronana.
+
+260
+00:28:45,400 --> 00:28:50,699
+Ronan zamordował moją żonę, Ovette,
+oraz moją córkę, Camarię.
+
+261
+00:28:51,500 --> 00:28:55,900
+Zaszlachtował je bez chwili wahania.
+I roześmiał się!
+
+262
+00:28:57,199 --> 00:29:01,000
+Nie masz prawa
+odbierać jej życia.
+
+263
+00:29:02,500 --> 00:29:07,699
+Ronan zabił moją rodzinę.
+A ja w zamian zabiję jego krewniaczkę.
+
+264
+00:29:08,199 --> 00:29:10,400
+Pewnie, Drax, trzymaj...
+
+265
+00:29:17,300 --> 00:29:18,599
+Co ty robisz, Quill?
+
+266
+00:29:19,199 --> 00:29:22,699
+Ani Ronan, ani Thanos
+nie są moją rodziną.
+
+267
+00:29:32,099 --> 00:29:34,699
+Tylko ja mam szansę
+ich powstrzymać.
+
+268
+00:29:35,800 --> 00:29:38,400
+Twoje słowa
+nic dla mnie nie znaczą, kobieto!
+
+269
+00:29:38,599 --> 00:29:41,000
+- Zaczekaj chwilę!
+- Szlag.
+
+270
+00:29:41,199 --> 00:29:43,400
+Skoro zabicie Ronana
+jest celem twojego życia,
+
+271
+00:29:43,500 --> 00:29:45,400
+to jej śmierć
+raczej ci w tym przeszkodzi.
+
+272
+00:29:45,500 --> 00:29:48,500
+Czy to nie ciebie
+ta suka próbowała zamordować?
+
+273
+00:29:48,699 --> 00:29:51,000
+Nie ona pierwsza.
+I nie ostatnia.
+
+274
+00:29:51,199 --> 00:29:54,300
+Zobacz, to zrobiła mi
+zajebista panna z Rajak.
+
+275
+00:29:54,800 --> 00:29:57,800
+Dźgnęła mnie widelcem, bo próbowałem
+wymknąć się przed śniadaniem.
+
+276
+00:29:57,900 --> 00:30:00,599
+A tu pewna urocza Kree
+próbowała mnie rozpłatać.
+
+277
+00:30:00,800 --> 00:30:03,900
+Przyłapała mnie z tamtą malutką
+A'askavariianką z Archiwum Novy.
+
+278
+00:30:04,000 --> 00:30:05,699
+Wyciągałem z niej informacje.
+
+279
+00:30:05,800 --> 00:30:09,599
+Widziałeś kiedyś A'askavariiankę?
+Mają macki i zęby jak igiełki.
+
+280
+00:30:09,599 --> 00:30:12,800
+Przecież w życiu
+bym na to nie poleciał.
+
+281
+00:30:12,800 --> 00:30:17,099
+Tak, nie obchodzi cię to.
+Ale posłuchaj uważnie.
+
+282
+00:30:17,099 --> 00:30:20,599
+Zdradziła Ronana.
+Będzie chciał ją dorwać.
+
+283
+00:30:20,599 --> 00:30:24,099
+I kiedy już to zrobi,
+to ty...
+
+284
+00:30:25,099 --> 00:30:27,699
+Dlaczego miałbym
+położyć mu palec na szyi?
+
+285
+00:30:28,199 --> 00:30:29,199
+Że co?
+
+286
+00:30:31,500 --> 00:30:36,800
+To symboliczny gest.
+Znaczy, że poderżniesz mu wtedy gardło.
+
+287
+00:30:37,400 --> 00:30:42,000
+Nie poderżnąłbym mu gardła.
+Odciąłbym całą głowę.
+
+288
+00:30:42,099 --> 00:30:44,300
+To taka fraza.
+Oznacza zabicie kogoś.
+
+289
+00:30:44,599 --> 00:30:46,099
+Widziałeś już taki gest?
+
+290
+00:30:46,199 --> 00:30:47,199
+- Znasz go?
+- Tak.
+
+291
+00:30:47,699 --> 00:30:49,900
+- Każdy go zna.
+- Nie?
+
+292
+00:30:51,500 --> 00:30:54,500
+Chodzi mi o to,
+że warto zachować przy życiu.
+
+293
+00:30:55,199 --> 00:30:57,500
+Nie odwalaj roboty za Ronana.
+
+294
+00:31:11,000 --> 00:31:12,900
+Podoba mi się ten nóż.
+Będzie mój.
+
+295
+00:31:14,099 --> 00:31:16,099
+- To był mój ulubiony nóż.
+<i>- Słuchaj!</i>
+
+296
+00:31:16,199 --> 00:31:19,400
+Mam gdzieś to, czy przeżyjesz.
+
+297
+00:31:19,599 --> 00:31:22,300
+- To dlaczego przeszkodziłeś mięśniakowi?
+- Proste.
+
+298
+00:31:22,900 --> 00:31:27,300
+- Wiesz, gdzie mogę opchnąć Kulę.
+- Jak opchniemy ją z więzienia?
+
+299
+00:31:27,699 --> 00:31:31,099
+Mój przyjaciel Rocket
+uciekł już z 22 różnych więzień.
+
+300
+00:31:31,199 --> 00:31:32,599
+Tak, zwiejemy stąd.
+
+301
+00:31:32,599 --> 00:31:35,500
+I lecimy prosto do Yondu
+po nagrodę za ciebie.
+
+302
+00:31:35,599 --> 00:31:39,199
+Ile twój kupiec chciał dać
+za moją Kulę?
+
+303
+00:31:40,599 --> 00:31:41,900
+Cztery miliardy.
+
+304
+00:31:42,000 --> 00:31:43,900
+- Co?
+- O kurwa.
+
+305
+00:31:44,000 --> 00:31:47,500
+Kula jest moją przepustką
+do wolności od Thanosa i Ronana.
+
+306
+00:31:48,300 --> 00:31:52,800
+Jeśli nas uwolnisz,
+zaprowadzę was prosto do kupca
+
+307
+00:31:52,900 --> 00:31:56,500
+- i rozdzielimy zysk między naszą trójkę.
+- Jestem Groot.
+
+308
+00:31:57,000 --> 00:31:58,099
+Na naszą czwórkę.
+
+309
+00:31:58,099 --> 00:32:02,900
+Przesypia akcję, budzi go brzdęk monet.
+Standard, kuźwa.
+
+310
+00:32:03,099 --> 00:32:06,300
+<i>Zostałeś zdradzony, Ronanie.</i>
+
+311
+00:32:06,300 --> 00:32:11,000
+Wiemy tylko, że Gamorę schwytano.
+Może odzyska jeszcze Kulę.
+
+312
+00:32:11,000 --> 00:32:15,300
+<i>Nie! Nasze źródło w Kyln donosi,</i>
+<i>że ma co do niej własne plany.</i>
+
+313
+00:32:15,500 --> 00:32:19,900
+<i>Twoja współpraca z Thanosem</i>
+<i>jest poważnie zagrożona.</i>
+
+314
+00:32:20,400 --> 00:32:24,400
+<i>Thanos chce się z tobą widzieć.</i>
+<i>Natychmiast!</i>
+
+315
+00:32:28,599 --> 00:32:30,300
+<i>Sanktuarium</i>
+<i>Siedziba Thanosa</i>
+
+316
+00:32:30,400 --> 00:32:34,099
+<i>Z całym szacunkiem:</i>
+<i>to twoja córka jest wszystkiemu winna,</i>
+
+317
+00:32:34,199 --> 00:32:37,699
+- jednak to mnie wzywasz.
+- Zważaj na słowa, Oskarżycielu.
+
+318
+00:32:37,800 --> 00:32:39,900
+Najpierw przegrała walkę
+z jakimś prostakiem.
+
+319
+00:32:40,000 --> 00:32:44,599
+- Thanos oddał ją pod twoją pieczę.
+- Potem zatrzymały ją Nova Corps.
+
+320
+00:32:44,800 --> 00:32:46,599
+Przybywasz z pustymi rękoma.
+
+321
+00:32:46,699 --> 00:32:50,800
+Twoje źródło twierdzi,
+że od początku chciała nas zdradzić!
+
+322
+00:32:50,900 --> 00:32:53,300
+Obniż głos!
+Bo jestem twoją...
+
+323
+00:33:01,599 --> 00:33:05,400
+Proszę tylko,
+byś potraktował to poważnie.
+
+324
+00:33:06,599 --> 00:33:10,300
+Jedyne, czego
+nie traktuję poważnie, chłopczyku...
+
+325
+00:33:10,699 --> 00:33:11,900
+to ty.
+
+326
+00:33:12,699 --> 00:33:18,400
+Twoja polityka mnie nudzi.
+Stoisz tu niczym płaczące dziecko.
+
+327
+00:33:18,500 --> 00:33:23,699
+I najwyraźniej zraziłeś czymś
+moją ukochaną córkę, Gamorę.
+
+328
+00:33:25,300 --> 00:33:30,699
+Dotrzymam naszej umowy, Kree,
+jeśli przyniesiesz mi Kulę.
+
+329
+00:33:31,599 --> 00:33:34,500
+Jeśli jednak powrócisz do mnie
+z pustymi rękoma,
+
+330
+00:33:34,699 --> 00:33:38,199
+to skąpię gwiazdy
+w twojej krwi.
+
+331
+00:33:40,900 --> 00:33:43,300
+Dzięki, tato.
+To uczciwa propozycja.
+
+332
+00:33:45,099 --> 00:33:50,699
+Tej walki nie wygrasz, Ronanie.
+Lećmy do Kyln.
+
+333
+00:33:59,300 --> 00:34:02,300
+Jeśli mamy stąd prysnąć,
+musimy dostać się do wieży strażniczej.
+
+334
+00:34:02,500 --> 00:34:05,099
+Aby to zrobić,
+potrzebuję kilku rzeczy.
+
+335
+00:34:05,099 --> 00:34:08,600
+Strażnicy noszą opaski,
+będące ich przepustkami.
+
+336
+00:34:08,600 --> 00:34:11,199
+- Muszę taką mieć.
+- Zdobędę ją.
+
+337
+00:34:11,399 --> 00:34:14,199
+Widzisz tamtego gościa?
+Muszę mieć jego protezę.
+
+338
+00:34:14,300 --> 00:34:15,899
+- W sensie nogę?
+- Tak.
+
+339
+00:34:16,100 --> 00:34:18,399
+Nie przyda się nam
+w żaden inny sposób.
+
+340
+00:34:18,699 --> 00:34:19,600
+Dobra.
+
+341
+00:34:19,800 --> 00:34:24,199
+I na koniec: za nami jest czarny panel.
+Z mrugającym, żółtym światełkiem.
+
+342
+00:34:24,399 --> 00:34:26,199
+- Widzicie?
+- Tak.
+
+343
+00:34:26,300 --> 00:34:30,399
+Za nim będzie bateria z quarnyxu.
+Fioletowa, zielone kable.
+
+344
+00:34:30,500 --> 00:34:34,199
+- Bez opaski nie wejdziemy do wieży.
+- Jak mamy ją zdobyć?
+
+345
+00:34:34,300 --> 00:34:36,500
+Ponoć typy bez sierści
+mają cię za piękność.
+
+346
+00:34:36,600 --> 00:34:39,500
+- Mała wymiana handlowa?
+- Chyba sobie żartujesz.
+
+347
+00:34:39,600 --> 00:34:41,399
+Sam słyszałem.
+Mówili tak.
+
+348
+00:34:41,500 --> 00:34:45,600
+To ze sześć metrów nad ziemią.
+W najsilniej strzeżonej części pierdla.
+
+349
+00:34:45,699 --> 00:34:48,399
+Nie da się tam wleźć cichaczem.
+
+350
+00:34:48,500 --> 00:34:51,699
+Mam plan, którego powodzenie
+wymaga baterii z quarnyxu.
+
+351
+00:34:51,800 --> 00:34:53,300
+Rozgryźcie to jakoś!
+
+352
+00:34:54,300 --> 00:34:56,300
+Mogę mówić dalej?
+Dzięki.
+
+353
+00:34:56,399 --> 00:34:58,199
+To będzie ważne.
+
+354
+00:34:58,300 --> 00:35:02,399
+Kiedy wyciągniecie baterię,
+zawyją wszystkie możliwe alarmy.
+
+355
+00:35:02,500 --> 00:35:05,199
+Będziemy więc musieli
+mocno się pośpieszyć.
+
+356
+00:35:05,300 --> 00:35:08,199
+Zatem niewątpliwie
+należy zdobyć ją na końcu.
+
+357
+00:35:13,899 --> 00:35:16,000
+Albo najpierw
+i improwizować.
+
+358
+00:35:16,100 --> 00:35:18,199
+- Biegnę po opaskę.
+- A ja po nogę.
+
+359
+00:35:30,300 --> 00:35:36,300
+Więźniu, rzuć urządzenie
+i wróć do celi albo otworzymy ogień.
+
+360
+00:35:42,399 --> 00:35:44,399
+Jestem...
+
+361
+00:35:44,600 --> 00:35:47,300
+Groot!
+
+362
+00:35:47,500 --> 00:35:48,800
+Ognia!
+
+363
+00:36:01,399 --> 00:36:04,199
+Więźniowie, wróćcie do swoich cel.
+
+364
+00:36:09,399 --> 00:36:13,500
+Ty durniu!
+Jak mam walczyć bez broni?
+
+365
+00:36:19,800 --> 00:36:23,500
+Zwierzak nim rządzi.
+Strzelać na rozkaz!
+
+366
+00:36:42,699 --> 00:36:44,300
+Pokrętna, mała bestio!
+
+367
+00:36:50,899 --> 00:36:53,899
+O tak.
+
+368
+00:37:05,899 --> 00:37:07,699
+Że co mam ci dać?
+
+369
+00:37:23,899 --> 00:37:25,500
+- Muszę to zabrać.
+- Powodzenia.
+
+370
+00:37:25,600 --> 00:37:28,699
+- To implant.
+- Jakoś sobie poradzę.
+
+371
+00:37:32,300 --> 00:37:36,500
+Rzuć nogę!
+Rzuć ją i wracaj do celi!
+
+372
+00:37:51,500 --> 00:37:52,800
+Rocket!
+
+373
+00:37:55,600 --> 00:37:58,000
+Idź do wieży!
+
+374
+00:38:29,199 --> 00:38:33,800
+Ty!
+Mężczyzno, co legł z A'askavariianką!
+
+375
+00:38:34,000 --> 00:38:36,100
+Ale tylko ten jeden raz.
+
+376
+00:38:37,899 --> 00:38:41,199
+Wszyscy dostępni strażnicy
+z pełnym uzbrojeniem bojowym...
+
+377
+00:39:02,899 --> 00:39:05,300
+Oszczędź mi
+nieprzyjemnych spojrzeń, kobieto.
+
+378
+00:39:05,500 --> 00:39:06,399
+Co on tu robi?
+
+379
+00:39:07,000 --> 00:39:09,699
+Obiecaliśmy, że może z nami być,
+aż nie zabije twojego szefa.
+
+380
+00:39:09,800 --> 00:39:13,600
+Muskularne świrusy zabijają
+za niedotrzymywanie obietnic.
+
+381
+00:39:13,699 --> 00:39:16,000
+- Masz.
+- Jaja sobie robiłem z tą nogą.
+
+382
+00:39:16,199 --> 00:39:17,899
+- Wcale jej nie potrzebowałem.
+- Co?
+
+383
+00:39:18,000 --> 00:39:22,500
+Pomyślałem, że to śmieszne, no nie?
+Tamten koleś musiał tak śmiesznie skakać.
+
+384
+00:39:22,500 --> 00:39:24,399
+Musiałem mu zrobić przelew
+na 30 tysięcy!
+
+385
+00:39:27,300 --> 00:39:30,300
+<i>Jak stąd odlecimy?</i>
+
+386
+00:39:30,600 --> 00:39:32,199
+On ma plan.
+
+387
+00:39:32,199 --> 00:39:34,000
+Masz?
+Czy to też sobie wymyśliłeś?
+
+388
+00:39:34,000 --> 00:39:35,500
+Mam plan!
+
+389
+00:39:35,699 --> 00:39:38,899
+Zaprzestań szczekania
+i wyzwól nas z tej przykrej niewoli!
+
+390
+00:39:39,100 --> 00:39:42,399
+Zgadzam się w tym punkcie
+z chodzącym tezaurusem.
+
+391
+00:39:42,500 --> 00:39:44,899
+Nigdy więcej
+tak mnie nie nazywaj.
+
+392
+00:39:45,800 --> 00:39:46,800
+To taka przenośnia.
+
+393
+00:39:46,899 --> 00:39:49,800
+Język jego ludu jest dosłowny.
+Metafory nie wejdą mu do głowy.
+
+394
+00:39:49,899 --> 00:39:51,500
+Nic nie wejdzie mi do głowy.
+
+395
+00:39:51,699 --> 00:39:55,300
+Mam na to zbyt dobry refleks.
+Złapałbym to coś szybciej.
+
+396
+00:39:55,500 --> 00:39:59,300
+Umrę otoczona
+największymi kretynami w tej galaktyce.
+
+397
+00:40:05,600 --> 00:40:07,300
+No i to jest siła ognia.
+
+398
+00:40:08,199 --> 00:40:11,199
+Na mój rozkaz!
+Raz!
+
+399
+00:40:13,199 --> 00:40:16,100
+- Gryzoniu, jesteśmy gotowi na plan!
+- Jeszcze moment!
+
+400
+00:40:17,199 --> 00:40:18,899
+Dwa!
+
+401
+00:40:19,899 --> 00:40:24,000
+Rozpoznaję to zwierzę.
+Piekliśmy takie nad ogniskiem jako dzieci.
+
+402
+00:40:24,100 --> 00:40:26,699
+- Ich mięso było nadzwyczaj smaczne.
+- To mi nie pomaga!
+
+403
+00:40:26,800 --> 00:40:27,699
+Trzy!
+
+404
+00:40:31,899 --> 00:40:33,899
+Cholera.
+
+405
+00:40:33,899 --> 00:40:37,100
+Pełny ogień na mój rozkaz!
+
+406
+00:40:37,100 --> 00:40:38,100
+Trzy!
+
+407
+00:40:38,699 --> 00:40:39,800
+Dwa!
+
+408
+00:40:40,300 --> 00:40:41,399
+Jeden!
+
+409
+00:40:55,800 --> 00:40:59,699
+Wyłączył sztuczną grawitację.
+Wszędzie poza tą wieżą.
+
+410
+00:41:38,399 --> 00:41:40,300
+Mówiłem, że mam plan.
+
+411
+00:42:03,000 --> 00:42:04,699
+To był przyzwoity plan.
+
+412
+00:42:15,600 --> 00:42:17,199
+Tam!
+Biegnijcie do mojego statku.
+
+413
+00:42:17,300 --> 00:42:19,899
+Milano, niebiesko-pomarańczowy,
+tam za rogiem.
+
+414
+00:42:20,000 --> 00:42:23,899
+Zwinęli moje spodnie jak szmatę.
+Masakra! Twoje ładnie złożyli!
+
+415
+00:42:32,199 --> 00:42:34,100
+Kula jest w środku.
+Spadamy.
+
+416
+00:42:34,300 --> 00:42:36,899
+- Zaczekaj.
+- Co?
+
+417
+00:42:37,000 --> 00:42:38,699
+Gnojek tego nie zwrócił.
+
+418
+00:42:39,199 --> 00:42:41,699
+- Czego nie zwrócił?
+- Trzymaj.
+
+419
+00:42:41,899 --> 00:42:43,500
+Zaprowadź ich na statek.
+Zaraz będę.
+
+420
+00:42:43,699 --> 00:42:46,199
+- Jak zamierzasz się...
+- Nie odlatujcie za daleko.
+
+421
+00:42:46,300 --> 00:42:49,000
+Idź już!
+
+422
+00:43:09,300 --> 00:43:11,199
+Moja szyja!
+
+423
+00:43:15,899 --> 00:43:19,500
+- Jak on chce się tu dostać?
+- Odmówił podzielenia się tą informacją.
+
+424
+00:43:19,600 --> 00:43:23,500
+To chrzanić go.
+Nie będę czekał na człenia-samobójcę.
+
+425
+00:43:23,699 --> 00:43:26,699
+- Masz Kulę, tak?
+- Tak.
+
+426
+00:43:49,300 --> 00:43:52,000
+Rozwalą nas na kawałki,
+jeśli nie odlecimy!
+
+427
+00:43:52,100 --> 00:43:55,199
+Nie!
+Nigdzie nie lecimy bez Kuli.
+
+428
+00:44:03,899 --> 00:44:05,100
+Spójrzcie.
+
+429
+00:44:12,699 --> 00:44:14,800
+Okazuje hart ducha!
+
+430
+00:44:14,899 --> 00:44:17,899
+Będzie cennym sojusznikiem
+w bitwie przeciw Ronanowi.
+
+431
+00:44:17,899 --> 00:44:21,699
+Cóż takiego odzyskiwałeś, kompanie?
+
+432
+00:44:26,500 --> 00:44:29,800
+Jesteś opóźniony umysłowo.
+
+433
+00:44:38,600 --> 00:44:40,300
+Te, Szopie Ninja!
+Co robisz?!
+
+434
+00:44:40,300 --> 00:44:42,800
+Nie rozbiera się
+czyjegoś statku bez pozwolenia!
+
+435
+00:44:43,000 --> 00:44:45,899
+- Co to my być?
+- Nie dotykaj, to bomba.
+
+436
+00:44:46,000 --> 00:44:47,000
+- Bomba?
+- No.
+
+437
+00:44:47,199 --> 00:44:50,500
+- I zostawiłeś ją na podłodze?
+- Miałem ją schować do pudełka.
+
+438
+00:44:50,699 --> 00:44:52,800
+- I w czym to pomoże?
+- Może do tego?
+
+439
+00:44:53,000 --> 00:44:55,300
+- Nie! Zostaw to!
+- Dlaczego? Co to?
+
+440
+00:44:55,399 --> 00:44:56,300
+Zamknij się!
+
+441
+00:44:58,100 --> 00:45:02,000
+- A to co?
+- Jakby sprawy konkretnie się posrały.
+
+442
+00:45:02,500 --> 00:45:05,300
+- Albo gdybyś chciał rozwalić księżyc.
+- Nie będziemy tego robić.
+
+443
+00:45:05,500 --> 00:45:07,500
+Noworodki płaczą,
+kiedy wchodzisz do pokoju.
+
+444
+00:45:07,699 --> 00:45:09,699
+Daj mi współrzędne
+planety twojego kupca.
+
+445
+00:45:10,399 --> 00:45:13,100
+Lecimy w dobrą stronę.
+Póki co.
+
+446
+00:45:13,199 --> 00:45:15,699
+Mogłabyś mi zaufać,
+skoro mamy współpracować.
+
+447
+00:45:15,899 --> 00:45:17,300
+A jak bardzo ty mi zaufasz?
+
+448
+00:45:17,500 --> 00:45:20,399
+O wiele bardziej,
+jeśli powiesz mi, co to jest.
+
+449
+00:45:21,399 --> 00:45:25,699
+- Domyślam się, że to jakaś broń.
+- Nie wiem, co to jest.
+
+450
+00:45:25,800 --> 00:45:28,100
+Jeśli to broń,
+należy jej użyć przeciw Ronanowi.
+
+451
+00:45:28,300 --> 00:45:30,199
+Odłóż to, głupcze,
+bo zabijesz nas wszystkich!
+
+452
+00:45:30,300 --> 00:45:33,100
+- Albo tylko ciebie, morderczyni!
+- Oszczędziłam cię, księżniczko!
+
+453
+00:45:33,199 --> 00:45:35,199
+- Nie jestem księżniczką!
+- Ej, wy!
+
+454
+00:45:35,399 --> 00:45:39,000
+Nikt nikogo nie będzie zabijał
+na moim statku!
+
+455
+00:45:39,800 --> 00:45:43,199
+Musimy ze sobą żyć,
+póki nie dostaniemy pieniędzy.
+
+456
+00:45:43,399 --> 00:45:46,899
+- Nie interesują mnie pieniądze.
+- To świetnie.
+
+457
+00:45:48,300 --> 00:45:51,300
+Więcej do podziału
+na naszą trójkę....
+
+458
+00:45:54,000 --> 00:45:57,199
+Na naszą czwórkę.
+Jasne, wspólnicy?
+
+459
+00:45:57,300 --> 00:46:01,399
+Zawarliśmy umowę, ale nie będę
+wspólniczką takich kreatur.
+
+460
+00:46:01,399 --> 00:46:04,100
+Poinformuję kupca,
+że jesteśmy w drodze.
+
+461
+00:46:04,199 --> 00:46:07,399
+Quill?
+Twój statek jest obrzydliwy.
+
+462
+00:46:12,100 --> 00:46:16,199
+I to jak.
+Gdyby postawić tu lampę ultrafioletową,
+
+463
+00:46:16,300 --> 00:46:19,100
+ściany wyglądałyby
+jak wystawa Jacksona Pollocka.
+
+464
+00:46:19,399 --> 00:46:21,100
+Jesteś chory, Quill.
+
+465
+00:46:28,899 --> 00:46:32,399
+Przysięgam!
+Nie wiem, dokąd odlecieli!
+
+466
+00:46:33,500 --> 00:46:35,899
+Gdyby to wiedział,
+już by nam wyśpiewał.
+
+467
+00:46:36,000 --> 00:46:37,000
+Dokładnie.
+
+468
+00:46:37,500 --> 00:46:41,800
+Ronanie, Nova Corps
+wysłali flotę do obrony więzienia.
+
+469
+00:46:41,899 --> 00:46:46,399
+Zatem roześlij flotę Necrocraftu
+po całym kwadrancie.
+
+470
+00:46:46,399 --> 00:46:49,800
+Znajdź Kulę.
+Wszelkimi środkami, za wszelką cenę.
+
+471
+00:46:50,000 --> 00:46:54,000
+- A co z tym miejscem?
+- Nova nie mogą wiedzieć, czego szukamy.
+
+472
+00:46:54,500 --> 00:46:56,399
+Oczyśćcie je!
+
+473
+00:46:59,300 --> 00:47:01,300
+Masz inne takie gówienka?
+
+474
+00:47:01,800 --> 00:47:05,399
+Postawiłbym sobie cały rządek
+na fotelu kontrolnym.
+
+475
+00:47:05,899 --> 00:47:10,199
+- Nie wiem, czy teraz żartujesz.
+- Jest śmiertelnie poważny.
+
+476
+00:47:10,399 --> 00:47:12,600
+W takim razie
+mogę pokazać...
+
+477
+00:47:13,199 --> 00:47:18,500
+Ale najpierw opowiesz mi, co to za Kula
+i dlaczego wszystkim tak na niej zależy.
+
+478
+00:47:18,500 --> 00:47:22,399
+A potem powiesz jeszcze
+kto inny mógłby chcieć ją kupić.
+
+479
+00:47:22,600 --> 00:47:25,699
+Społeczność handlarzy
+dobrami luksusowymi...
+
+480
+00:47:28,199 --> 00:47:30,399
+Ta społeczność jest...
+
+481
+00:47:30,399 --> 00:47:31,699
+Jest bardzo zwarta...
+
+482
+00:47:31,899 --> 00:47:33,100
+Zamknięta...
+
+483
+00:47:33,300 --> 00:47:35,399
+Handlarze dóbr luksusowych
+to bardzo...
+
+484
+00:47:36,300 --> 00:47:40,800
+Nie mogę zdradzać
+poufnych personaliów moich kupców!
+
+485
+00:47:51,100 --> 00:47:53,399
+To kto jest
+tym twoim kupcem?
+
+486
+00:47:57,100 --> 00:47:59,699
+- Carino.
+- Tak, panie?
+
+487
+00:47:59,800 --> 00:48:04,699
+- Twoja rasa ma łokcie, prawda?
+- Owszem, Panie.
+
+488
+00:48:04,899 --> 00:48:07,800
+Skorzystaj z nich więc.
+
+489
+00:48:09,199 --> 00:48:12,100
+Nie muszę przypominać,
+co stało się z ostatnią pomocnicą,
+
+490
+00:48:12,199 --> 00:48:15,600
+która mnie rozczarowała.
+Czy muszę?
+
+491
+00:48:18,199 --> 00:48:22,500
+Z życiem.
+Goście wkrótce przybędą.
+
+492
+00:48:26,300 --> 00:48:28,800
+<i>Uwaga!</i>
+<i>Dolecieliśmy.</i>
+
+493
+00:48:48,300 --> 00:48:49,800
+Co to za miejsce?
+
+494
+00:48:50,300 --> 00:48:52,300
+<i>Zwane jest "Nigdzieś".</i>
+
+495
+00:48:52,399 --> 00:48:55,699
+<i>To oderwana głowa starożytnego,</i>
+<i>niebiańskiego stworzenia.</i>
+
+496
+00:48:55,800 --> 00:49:01,899
+Bądź ostrożny, gryzoniu.
+Tu nie obowiązują żadne reguły.
+
+497
+00:49:06,600 --> 00:49:10,399
+<i>Nigdzieś</i>
+<i>Kolonia górnicza</i>
+
+498
+00:49:26,300 --> 00:49:29,100
+<i>Setki lat temu Grupa Tivan</i>
+<i>przysłała tu górników,</i>
+
+499
+00:49:29,199 --> 00:49:31,800
+<i>by wydobywali z wnętrza czaszki</i>
+<i>tkankę organiczną.</i>
+
+500
+00:49:31,899 --> 00:49:34,100
+<i>Kości, mózg, płyn rdzeniowy.</i>
+
+501
+00:49:34,300 --> 00:49:39,100
+<i>Bardzo rzadkie surowce.</i>
+<i>Osiągają zawrotne ceny na czarnym rynku.</i>
+
+502
+00:49:39,500 --> 00:49:43,000
+<i>Praca jest nielegalna i niebezpieczna.</i>
+<i>Odpowiednia tylko dla bandytów.</i>
+
+503
+00:49:43,199 --> 00:49:45,399
+Pochodzę z planety
+pełnej bandytów.
+
+504
+00:49:45,500 --> 00:49:48,800
+Billy Kid, Bonnie i Clyde,
+John Stamos.
+
+505
+00:49:49,000 --> 00:49:52,300
+- Chciałbym odwiedzić tę planetę.
+- Powinieneś.
+
+506
+00:49:53,100 --> 00:49:54,100
+Przepraszam!
+
+507
+00:49:54,199 --> 00:49:57,300
+- Uwaga na portfele.
+- Da pan parę groszy?
+
+508
+00:50:04,000 --> 00:50:05,600
+Wynocha.
+
+509
+00:50:10,800 --> 00:50:15,100
+- Twój kupiec gdzieś tu mieszka?
+- Mamy zaczekać na jego przedstawiciela.
+
+510
+00:50:15,300 --> 00:50:19,100
+- Wyjazd stąd!
+- To nie jest porządny lokal.
+
+511
+00:50:19,300 --> 00:50:22,300
+I czym mamy
+zająć swój czas?
+
+512
+00:50:23,100 --> 00:50:24,199
+Tak!
+
+513
+00:50:41,699 --> 00:50:45,399
+Mój orloni wygrał!
+Jako i ja zawsze wygrywam!
+
+514
+00:50:46,100 --> 00:50:48,699
+Wlejmy w nasze ciała
+jeszcze trochę tego płynu.
+
+515
+00:50:48,899 --> 00:50:52,800
+No wreszcie
+powiedziałeś coś rozsądnego!
+
+516
+00:50:54,300 --> 00:50:58,600
+Ceny paliwa są tu naprawdę kosmiczne.
+W życiu mi się to nie zwróci.
+
+517
+00:50:58,800 --> 00:51:00,399
+Mój kontakt każe nam czekać.
+
+518
+00:51:00,899 --> 00:51:04,800
+To taktyka negocjacyjna.
+Jestem w tym ekspertem.
+
+519
+00:51:05,000 --> 00:51:09,899
+Ty skłaniasz się raczej ku
+"jeb, jeb, oto moje warunki".
+
+520
+00:51:11,199 --> 00:51:15,500
+- Mój ojciec nie poważał dyplomacji.
+- Thanos?
+
+521
+00:51:15,600 --> 00:51:17,500
+On nie jest moim ojcem.
+
+522
+00:51:18,300 --> 00:51:23,000
+Gdy Thanos podbił mój ojczysty świat,
+zabił mi rodziców na moich oczach.
+
+523
+00:51:23,100 --> 00:51:27,000
+Torturował mnie.
+Przemienił w maszynę do zabijania.
+
+524
+00:51:27,500 --> 00:51:31,500
+Kiedy obwieścił, że dla Ronana
+zniszczy całą planetę,
+
+525
+00:51:31,699 --> 00:51:33,600
+nie mogłam
+pozostać bezczynna.
+
+526
+00:51:38,500 --> 00:51:41,399
+Dlaczego ryzykowałeś życiem
+dla tego urządzenia?
+
+527
+00:51:42,600 --> 00:51:44,100
+To prezent od mojej matki.
+
+528
+00:51:45,800 --> 00:51:49,000
+Dzieliła się ze mną
+ukochanymi piosenkami z czasów młodości.
+
+529
+00:51:49,100 --> 00:51:52,399
+Miałem walkmana ze sobą,
+gdy zostałem...
+
+530
+00:51:53,100 --> 00:51:54,899
+Kiedy ona...
+
+531
+00:51:57,399 --> 00:51:59,699
+No, wiesz.
+Kiedy opuściłem Ziemię.
+
+532
+00:52:00,000 --> 00:52:01,199
+Co się z tym robi?
+
+533
+00:52:01,399 --> 00:52:05,100
+Nic. Słucha się muzyki.
+Albo się tańczy.
+
+534
+00:52:05,300 --> 00:52:09,800
+Jestem wojowniczką i zabójczynią.
+Nie tańczę.
+
+535
+00:52:10,000 --> 00:52:11,199
+Poważnie?
+
+536
+00:52:11,399 --> 00:52:15,500
+Na mojej planecie istnieje
+legenda o takich ludziach.
+
+537
+00:52:15,699 --> 00:52:24,199
+Ujęto ją w filmie "Footloose".
+Wielki bohater, zwany Kevinem Baconem
+
+538
+00:52:25,100 --> 00:52:28,399
+uczy całe miasteczko
+pełne ludzi z kijami w tyłkach
+
+539
+00:52:28,500 --> 00:52:32,399
+że taniec
+to najwspanialsza sprawa pod słońcem.
+
+540
+00:52:33,800 --> 00:52:36,899
+- Kto powkładał im kije?
+- Co? Nie, to takie...
+
+541
+00:52:37,100 --> 00:52:41,199
+- To okrutne.
+- To takie nasze powiedzonko.
+
+542
+00:52:59,800 --> 00:53:01,899
+To przyjemna melodia!
+
+543
+00:53:19,000 --> 00:53:21,000
+- Nie!
+- Co ty robisz?!
+
+544
+00:53:21,100 --> 00:53:22,899
+Wiem, kim jesteś!
+
+545
+00:53:22,899 --> 00:53:26,000
+A ja nie jestem naiwną sierotą,
+która ulegnie twoim...
+
+546
+00:53:26,300 --> 00:53:31,300
+- Twoim... biodrowym zaklęciom!
+- Nie ma mowy o niczym takim.
+
+547
+00:53:35,100 --> 00:53:36,899
+No nie.
+
+548
+00:53:46,300 --> 00:53:47,500
+Przestań!
+
+549
+00:53:47,899 --> 00:53:49,199
+Co wy odwalacie?!
+
+550
+00:53:49,300 --> 00:53:52,399
+Ta gadzina mówi o sprawach,
+o których nie ma pojęcia!
+
+551
+00:53:52,600 --> 00:53:54,500
+- To prawda!
+- Nie ma za grosz szacunku!
+
+552
+00:53:54,600 --> 00:53:56,899
+- To również prawda!
+- Zaczekajcie!
+
+553
+00:53:57,100 --> 00:54:01,500
+Przezywaj mnie dalej, twardzielu!
+Śmiejesz się ze mnie jak wszyscy!
+
+554
+00:54:01,600 --> 00:54:04,100
+Rocket, jesteś pijany.
+Nikt się z ciebie nie śmieje.
+
+555
+00:54:04,300 --> 00:54:09,600
+Myśli, że jestem głupią rzeczą!
+Nie prosiłem się o stworzenie mnie!
+
+556
+00:54:09,699 --> 00:54:13,699
+Nie prosiłem, by wciąż mnie rozrywano
+i na powrót składano,
+
+557
+00:54:13,899 --> 00:54:17,300
+i by zamieniono mnie w jakiegoś...
+małego potworka!
+
+558
+00:54:17,500 --> 00:54:19,399
+Nikt nie przezywa cię
+od potworków.
+
+559
+00:54:19,500 --> 00:54:24,399
+On przezywa mnie od gadziny!
+A ona od gryzonia!
+
+560
+00:54:24,600 --> 00:54:29,000
+Zobaczymy, jak będzie wam do śmiechu
+po paru strzałach prosto w ryj!
+
+561
+00:54:29,199 --> 00:54:30,600
+Nieee!
+
+562
+00:54:30,800 --> 00:54:34,199
+Cztery miliardy!
+Rocket! Ogarnij się!
+
+563
+00:54:34,199 --> 00:54:38,699
+Przyjmuj to na klatę
+przez ostatnią noc, a będziesz bogaty!
+
+564
+00:54:45,600 --> 00:54:46,800
+Dobra.
+
+565
+00:54:47,399 --> 00:54:50,600
+Ale nie obiecuję, że po wszystkim
+was nie pozabijam, dupki.
+
+566
+00:54:50,699 --> 00:54:54,199
+Widzicie? I właśnie dlatego
+żadne z was nie ma przyjaciół!
+
+567
+00:54:54,800 --> 00:54:57,500
+Poznajecie kogoś i pięć sekund później
+próbujecie go zabić!
+
+568
+00:54:57,600 --> 00:55:03,600
+Przelecieliśmy przez pół kwadrantu!
+I nic nie zapowiada śmierci Ronana.
+
+569
+00:55:05,800 --> 00:55:07,899
+- Drax!
+- Zostaw go.
+
+570
+00:55:08,300 --> 00:55:09,800
+Nie potrzebujemy go.
+
+571
+00:55:12,100 --> 00:55:15,899
+Panienko Gamoro.
+Zaprowadzę państwa do mojego pana.
+
+572
+00:55:22,199 --> 00:55:24,100
+Wcale nie mam gęsiej skórki.
+
+573
+00:55:24,600 --> 00:55:27,600
+Zgromadziliśmy tu
+największą w galaktyce kolekcję
+
+574
+00:55:27,699 --> 00:55:31,199
+żywej fauny, zwłok
+oraz wszelakich gatunków.
+
+575
+00:55:37,199 --> 00:55:42,500
+Przedstawiam Taneleera Tivana,
+Kolekcjonera.
+
+576
+00:55:56,399 --> 00:56:01,699
+Moja droga Gamoro.
+Jakże miło spotkać cię we własnej osobie.
+
+577
+00:56:01,899 --> 00:56:07,399
+Pomińmy formalności, Tivan.
+Mamy przedmiot, o którym rozmawialiśmy.
+
+578
+00:56:08,300 --> 00:56:14,699
+- Cóż to za rzecz?
+- Jestem Groot.
+
+579
+00:56:18,800 --> 00:56:22,100
+Nie sądziłem, że ujrzę kiedyś Groota.
+Drogi panie...
+
+580
+00:56:22,899 --> 00:56:26,100
+Zapłacę panu jeszcze za życia,
+bym mógł otrzymać pańskie ścierwo.
+
+581
+00:56:26,300 --> 00:56:30,600
+- Po pańskiej śmierci, rzecz jasna.
+- Jestem Groot.
+
+582
+00:56:30,699 --> 00:56:33,399
+Chcesz, by przerobił cię
+na jakieś durne krzesło?
+
+583
+00:56:33,600 --> 00:56:37,100
+- To pański zwierzak?
+- Że co?
+
+584
+00:56:38,100 --> 00:56:41,899
+Przemierzyliśmy pół galaktyki,
+by zdobyć tę Kulę.
+
+585
+00:56:42,100 --> 00:56:45,899
+Dobrze zatem.
+Zobaczmy, co przywieźliście.
+
+586
+00:56:59,699 --> 00:57:03,199
+Trzy baterie z quarnyxu,
+siedem skrzyń nasion Cotati.
+
+587
+00:57:03,399 --> 00:57:06,699
+Nie, mają być skrzynie.
+Ostatnim razem przysłałeś...
+
+588
+00:57:08,300 --> 00:57:11,199
+Prześlesz dla mnie wiadomość.
+
+589
+00:57:11,600 --> 00:57:14,100
+Och, moi nowi przyjaciele...
+
+590
+00:57:14,399 --> 00:57:19,600
+Przed aktem stworzenia
+było sześć osobliwości.
+
+591
+00:57:21,699 --> 00:57:25,199
+Wszechświat wybuchł,
+rozpoczynając swoje istnienie,
+
+592
+00:57:25,199 --> 00:57:31,199
+zaś pozostałości tamtych systemów
+przekuto w sześć sztab kruszcu.
+
+593
+00:57:32,000 --> 00:57:34,199
+W Kamienie Nieskończoności.
+
+594
+00:57:35,399 --> 00:57:42,300
+Zdaje się, że mogą posługiwać się nimi
+tylko istoty obdarzone niezwykłą siłą.
+
+595
+00:57:42,699 --> 00:57:43,699
+Spójrzcie.
+
+596
+00:57:46,899 --> 00:57:52,699
+Te istoty mogą użyć Kamienia,
+by wysiec całe cywilizacje
+
+597
+00:57:52,800 --> 00:57:56,300
+niczym pszenicę na polu.
+
+598
+00:57:57,800 --> 00:58:00,100
+Mogłem troszkę popuścić.
+
+599
+00:58:00,899 --> 00:58:06,300
+Przez jedną krótką chwilę pewna grupa
+zdołała podzielić się energią,
+
+600
+00:58:06,500 --> 00:58:10,699
+jednak szybko poniosła
+w wyniku tego śmierć.
+
+601
+00:58:15,699 --> 00:58:17,300
+Piękny.
+
+602
+00:58:19,199 --> 00:58:21,600
+Umyka wszelkim porównaniom.
+
+603
+00:58:23,800 --> 00:58:27,399
+To strasznie ciekawe, białasie.
+Ale mógłbyś już zapłacić.
+
+604
+00:58:29,399 --> 00:58:33,300
+- W jakiej formie?
+- A jak myślisz, mądralo? W unitach!
+
+605
+00:58:34,399 --> 00:58:35,500
+Dobrze zatem.
+
+606
+00:58:41,100 --> 00:58:42,500
+Carino.
+
+607
+00:58:42,800 --> 00:58:47,100
+- Odsuń się.
+- Dłużej nie będę twoją niewolnicą!
+
+608
+00:58:47,300 --> 00:58:48,699
+Nie!
+
+609
+00:59:36,000 --> 00:59:37,300
+Co, do...
+
+610
+00:59:46,500 --> 00:59:49,399
+Jak mogłam sądzić, że Tivan
+zdoła opanować zawartość tej Kuli?
+
+611
+00:59:49,500 --> 00:59:53,000
+- Dlaczego jeszcze jej nie wyrzuciłaś?!
+- Mamy ją tu zostawić?
+
+612
+00:59:53,100 --> 00:59:56,800
+- Nie wierzę, że nosiłeś to w torebce!
+- To torba na siłkę!
+
+613
+00:59:57,000 --> 01:00:00,699
+Oddajmy to Nova Corps.
+Istnieje szansa, że opanują Kulę.
+
+614
+01:00:00,800 --> 01:00:01,800
+Jaja sobie robisz?
+
+615
+01:00:02,000 --> 01:00:04,600
+Nova Corps nas aresztują.
+Oddaj to Ronanowi.
+
+616
+01:00:04,699 --> 01:00:08,100
+- Żeby zniszczył galaktykę?
+- Od kiedy zrobiłeś się taki święty?
+
+617
+01:00:08,199 --> 01:00:11,199
+Co galaktyka zrobiła dla ciebie?
+Dlaczego miałbyś chcieć ją ocalić?
+
+618
+01:00:11,300 --> 01:00:14,699
+- Bo jestem idiotą, który tu żyje!
+- Posłuchaj mnie, Peter.
+
+619
+01:00:14,800 --> 01:00:17,899
+Nie możemy pozwolić,
+by Kamień wpadł w ręce Ronana.
+
+620
+01:00:18,100 --> 01:00:21,300
+Musimy wrócić na twój statek
+i zawieźć go na Novę.
+
+621
+01:00:21,399 --> 01:00:23,899
+Dobra, jasne.
+Masz rację.
+
+622
+01:00:24,699 --> 01:00:28,600
+Albo oddamy go komuś,
+kto nas nie aresztuje,
+
+623
+01:00:28,800 --> 01:00:31,899
+jest bardzo miły
+i zapłaci nam dużo pieniędzy.
+
+624
+01:00:32,100 --> 01:00:35,699
+- To kompromisowe rozwiązanie.
+- Jesteś nikczemny.
+
+625
+01:00:36,399 --> 01:00:39,000
+Pozbawiony honoru.
+I wiary!
+
+626
+01:00:39,800 --> 01:00:41,300
+- O, nie.
+- Nareszcie!
+
+627
+01:00:43,500 --> 01:00:46,399
+Stanę naprzeciw mego wroga
+i zniszczę go!
+
+628
+01:00:46,500 --> 01:00:48,500
+Wezwałeś Ronana?
+
+629
+01:00:53,100 --> 01:00:56,100
+Quill!
+Nie ruszaj się, chłopcze!
+
+630
+01:00:57,300 --> 01:00:59,399
+Ani kroku!
+Z drogi!
+
+631
+01:01:03,300 --> 01:01:08,399
+- Ronanie Oskarżycielu!
+- To ty wysłałeś wiadomość?
+
+632
+01:01:08,500 --> 01:01:12,500
+Zabiłeś moją żonę!
+I moją córkę!
+
+633
+01:01:20,000 --> 01:01:24,300
+Mówiłem, że się tu nie zmieścisz.
+Zaczekaj tu. Zaraz wracam.
+
+634
+01:01:29,500 --> 01:01:33,199
+To Gamora!
+Ucieka z Kulą.
+
+635
+01:01:41,600 --> 01:01:43,199
+Nie!
+
+636
+01:01:43,300 --> 01:01:46,800
+Nebulo, odzyskaj Kulę.
+
+637
+01:02:03,300 --> 01:02:07,199
+Kamień jest w pierwszej kapsule.
+Zestrzelcie ją!
+
+638
+01:02:35,800 --> 01:02:38,899
+Rocket, trzymaj ich z dala od Gamory,
+póki nie dotrze na Milano!
+
+639
+01:02:39,100 --> 01:02:41,399
+Niby jak?
+Nie ma tu żadnej broni!
+
+640
+01:02:41,600 --> 01:02:44,699
+To kapsuły przemysłowe.
+Są prawie niezniszczalne.
+
+641
+01:02:44,899 --> 01:02:49,100
+- Nie w starciu z necrobronią.
+- Nie o to mi chodzi.
+
+642
+01:03:37,699 --> 01:03:41,000
+Pożyczę sobie ten statek.
+
+643
+01:04:11,800 --> 01:04:14,899
+Nie przypominam sobie,
+bym zabił twoją rodzinę.
+
+644
+01:04:17,199 --> 01:04:20,600
+Twojej śmierci zapewne
+też nie zapamiętam.
+
+645
+01:04:37,199 --> 01:04:40,500
+Quill, uwięzili mnie.
+Nie dam rady dotrzeć na Milano.
+
+646
+01:04:40,899 --> 01:04:42,100
+Muszę wylecieć.
+
+647
+01:04:44,199 --> 01:04:47,199
+Zaczekaj! Te kapsuły
+nie nadają się do takich lotów!
+
+648
+01:04:53,199 --> 01:04:55,100
+Rozczarowujesz, siostro.
+
+649
+01:04:55,899 --> 01:05:00,100
+A z całego rodzeństwa
+<i>ciebie nienawidziłam najmniej.</i>
+
+650
+01:05:00,699 --> 01:05:03,600
+<i>Nebulo, proszę...</i>
+Jeśli Ronan dostanie Kamień,
+
+651
+01:05:04,100 --> 01:05:06,800
+<i>- zabije nas wszystkich.</i>
+- Nie wszystkich.
+
+652
+01:05:07,500 --> 01:05:09,199
+Ty będziesz już martwa.
+
+653
+01:06:03,699 --> 01:06:06,699
+<i>Ronanie, dokonało się.</i>
+
+654
+01:06:09,800 --> 01:06:11,300
+<i>Spadamy stąd, Quill.</i>
+
+655
+01:06:11,399 --> 01:06:13,899
+<i>Przeżyje jeszcze chwilę</i>
+<i>dzięki modyfikacjom,</i>
+
+656
+01:06:14,000 --> 01:06:16,100
+<i>ale nie możemy jej</i>
+<i>w żaden sposób pomóc.</i>
+
+657
+01:06:16,199 --> 01:06:17,699
+<i>Kapsuły długo nie pociągną.</i>
+
+658
+01:06:17,800 --> 01:06:20,699
+<i>Za chwilę będziemy mieć</i>
+<i>ten sam problem.</i>
+
+659
+01:06:27,800 --> 01:06:30,000
+Chrzanić to.
+
+660
+01:06:31,399 --> 01:06:32,800
+<i>Quill?</i>
+
+661
+01:06:33,000 --> 01:06:36,199
+Yondu! Yondu.
+<i>Mówi Quill!</i>
+
+662
+01:06:36,300 --> 01:06:41,199
+<i>- Moje współrzędne to 227K324.</i>
+- Co ty robisz, Quill?
+
+663
+01:06:41,399 --> 01:06:45,100
+Jestem gdzieś za Nigdzieś.
+Jeśli to słyszysz, przyleć po mnie.
+
+664
+01:06:45,800 --> 01:06:47,300
+Potulnie czekam.
+
+665
+01:06:56,800 --> 01:06:58,699
+<i>Nie odwalaj, Quill.</i>
+
+666
+01:06:59,800 --> 01:07:02,399
+<i>Wracaj do swojej kapsuły!</i>
+
+667
+01:07:02,800 --> 01:07:05,899
+<i>Dwie osoby się tam nie zmieszczą.</i>
+<i>Umrzesz!</i>
+
+668
+01:07:07,100 --> 01:07:08,899
+W przeciągu sekund!
+
+669
+01:07:09,300 --> 01:07:10,399
+<i>Quill...</i>
+
+670
+01:08:11,500 --> 01:08:13,199
+Quill?
+
+671
+01:08:14,800 --> 01:08:19,500
+- Co się stało?
+- Zobaczyłem cię tam.
+
+672
+01:08:20,899 --> 01:08:23,399
+Nie wiem, co we mnie wstąpiło,
+
+673
+01:08:24,399 --> 01:08:27,100
+ale nie mogłem
+pozwolić ci umrzeć.
+
+674
+01:08:29,000 --> 01:08:31,399
+Odnalazłem coś w sobie.
+
+675
+01:08:32,500 --> 01:08:37,200
+Coś...
+niewiarygodnie heroicznego.
+
+676
+01:08:37,899 --> 01:08:41,899
+Nie, żebym się przechwalał,
+ale obiektywnie rzecz ujmując...
+
+677
+01:08:42,000 --> 01:08:47,100
+- Gdzie jest Kula?
+- W... Cóż, zabrali ją.
+
+678
+01:08:47,299 --> 01:08:48,299
+Co?
+
+679
+01:08:51,100 --> 01:08:53,500
+Witaj w domu, Peter.
+
+680
+01:09:16,399 --> 01:09:19,100
+Cholerny dureń...
+Banda kretynów.
+
+681
+01:09:20,500 --> 01:09:22,700
+Quill dał się złapać.
+
+682
+01:09:22,899 --> 01:09:28,799
+Wszystko przez ciebie!
+Zachciało się walczyć z armią w pojedynkę!
+
+683
+01:09:30,399 --> 01:09:32,000
+Masz rację.
+
+684
+01:09:34,299 --> 01:09:36,700
+Byłem głupcem.
+
+685
+01:09:38,799 --> 01:09:40,700
+Cały mój gniew,
+
+686
+01:09:41,200 --> 01:09:43,799
+cała ta furia...
+
+687
+01:09:46,200 --> 01:09:49,500
+Zasłaniałem nimi moją stratę.
+
+688
+01:09:54,799 --> 01:09:59,399
+"O, nie!
+Moja żona i dziecko nie żyją".
+
+689
+01:10:01,000 --> 01:10:05,200
+I co, będę wredny!
+Każdy kogoś stracił!
+
+690
+01:10:05,899 --> 01:10:10,100
+I nie jest to pretekst,
+by pozabijać wszystkich innych!
+
+691
+01:10:13,500 --> 01:10:16,100
+Chodź, Groot.
+Ronan ma Kamień.
+
+692
+01:10:16,299 --> 01:10:21,500
+Może zdążymy przedostać się szybko
+na drugą stronę Wszechświata
+
+693
+01:10:21,700 --> 01:10:27,299
+i pożyć sobie jeszcze trochę,
+zanim ten nawiedzony pajac tam doleci.
+
+694
+01:10:28,799 --> 01:10:32,600
+- Jestem Groot.
+- Chcesz ich uratować? Jak niby?
+
+695
+01:10:32,799 --> 01:10:38,299
+- Jestem Groot.
+- Wiem, że to nasi jedyni przyjaciele,
+
+696
+01:10:38,399 --> 01:10:42,899
+ale otacza ich właśnie armia Łowców.
+A nas jest tylko dwóch!
+
+697
+01:10:44,000 --> 01:10:45,200
+Trzech.
+
+698
+01:10:54,299 --> 01:10:59,399
+Przez was muszę...
+skopać... tę kępę trawy!
+
+699
+01:11:02,000 --> 01:11:06,299
+Zdobyłem Kulę.
+Zgodnie z obietnicą.
+
+700
+01:11:06,500 --> 01:11:11,500
+<i>- Przynieś ją do mnie.</i>
+- Owszem, taką mieliśmy umowę.
+
+701
+01:11:12,299 --> 01:11:17,600
+Ja dostarczę ci Kulę,
+a ty zniszczysz dla mnie Xandar.
+
+702
+01:11:17,799 --> 01:11:22,299
+Teraz jednak, skoro wiem,
+że w środku jest Kamień Nieskończoności,
+
+703
+01:11:22,500 --> 01:11:26,200
+- nie wiem, co ci przekazać.
+<i>- Chłopczyku,</i>
+
+704
+01:11:26,600 --> 01:11:29,500
+<i>na twoim miejscu</i>
+<i>przemyślałbym to ponownie!</i>
+
+705
+01:11:30,100 --> 01:11:32,399
+Panie, nie możesz tego zrobić!
+
+706
+01:11:32,500 --> 01:11:35,600
+Thanos to najpotężniejsza
+istota we Wszechświecie.
+
+707
+01:11:35,700 --> 01:11:37,299
+Już nie.
+
+708
+01:11:59,799 --> 01:12:02,399
+Zwiesz mnie "chłopczykiem"!
+
+709
+01:12:02,500 --> 01:12:07,100
+Zaniosę Xandarowi płomień
+tysiącletniej sprawiedliwości Kree
+
+710
+01:12:07,200 --> 01:12:10,899
+i obrócę planetę w popiół!
+
+711
+01:12:11,000 --> 01:12:15,399
+A potem, Thanosie,
+zajmę się tobą.
+
+712
+01:12:17,399 --> 01:12:20,299
+Po Xandarze przyjdzie
+kolej na mego ojca?
+
+713
+01:12:20,799 --> 01:12:24,600
+- Śmiesz mi się sprzeciwiać?
+- Widzisz, w co mnie przemienił.
+
+714
+01:12:24,700 --> 01:12:28,899
+Jeśli go zabijesz,
+pomogę ci zniszczyć tysiąc planet.
+
+715
+01:12:29,799 --> 01:12:31,899
+<i>Zdradziłeś mnie?</i>
+
+716
+01:12:32,000 --> 01:12:35,299
+- Okradłeś mnie?!
+- Zostaw go już!
+
+717
+01:12:35,299 --> 01:12:39,899
+Kiedy zgarnąłem cię za dzieciaka,
+chłopaki chcieli cię zjeść.
+
+718
+01:12:40,100 --> 01:12:44,299
+Jeszcze nie jedli Terranina.
+Ocaliłem ci życie!
+
+719
+01:12:44,399 --> 01:12:46,600
+Przestaniesz o tym gadać?
+Rany!
+
+720
+01:12:46,799 --> 01:12:51,899
+Wyrzucasz mi ten fakt od 20 lat,
+jakbyś zbawił tym cały Wszechświat.
+
+721
+01:12:52,000 --> 01:12:55,299
+Normalni ludzie nawet
+nie myślą o tym, by jeść innych!
+
+722
+01:12:55,399 --> 01:12:58,299
+Ani o wdzięczności innych
+za ocalenie ich przed kanibalizmem!
+
+723
+01:12:58,399 --> 01:13:00,500
+Porwałeś mnie.
+
+724
+01:13:00,500 --> 01:13:02,799
+Wykradłeś mnie z domu,
+zabrałeś rodzinie.
+
+725
+01:13:02,899 --> 01:13:05,000
+Przecież masz gdzieś
+tę swoją Terrę!
+
+726
+01:13:05,500 --> 01:13:08,799
+Boisz się,
+bo w środku masz miękko!
+
+727
+01:13:08,899 --> 01:13:12,700
+- O, dokładnie tutaj!
+- Yondu, wysłuchaj mnie!
+
+728
+01:13:12,799 --> 01:13:16,899
+- Ronan ma Kamień Nieskończoności.
+- Wiem o tym, dziewczyno.
+
+729
+01:13:17,000 --> 01:13:22,899
+Więc wiesz, że musimy mu go odebrać!
+Użyje go, by zniszczyć Xandar.
+
+730
+01:13:23,000 --> 01:13:26,200
+Musimy ich ostrzec.
+Inaczej zginą miliardy.
+
+731
+01:13:26,299 --> 01:13:28,899
+Cały czas kładła ci
+takie rzeczy do głowy?
+
+732
+01:13:29,000 --> 01:13:30,000
+Sentymenty?
+
+733
+01:13:31,500 --> 01:13:34,299
+Przecież od tego lasuje się mózg!
+
+734
+01:13:37,799 --> 01:13:39,799
+No i to by było na tyle.
+
+735
+01:13:40,200 --> 01:13:42,700
+- Nie!
+- Wybacz, chłopcze.
+
+736
+01:13:42,899 --> 01:13:46,500
+Ale kapitan musi pokazać załodze,
+jak wygląda kara dla zdrajcy.
+
+737
+01:13:46,600 --> 01:13:48,799
+Kapitan musi pokazać co i jak!
+
+738
+01:13:50,700 --> 01:13:57,100
+Jeśli mnie zabijesz,
+zaprzepaścisz okazję swojego życia.
+
+739
+01:14:02,299 --> 01:14:06,399
+Kamień?
+Obyś mówił o czymś lepszym.
+
+740
+01:14:06,600 --> 01:14:11,700
+- Bo od Ronana się nie kradnie.
+- Mamy kogoś z jego najbliższej załogi.
+
+741
+01:14:12,000 --> 01:14:16,899
+- Czyżby?
+- Ona wie o Ronanie absolutnie wszystko.
+
+742
+01:14:17,100 --> 01:14:22,000
+- O jego statkach i armii.
+- Można go zaatakować.
+
+743
+01:14:22,799 --> 01:14:27,700
+I co ty na to, Yondu?
+Razem, jak za starych dobrych lat.
+
+744
+01:14:35,500 --> 01:14:36,500
+Puśćcie go!
+
+745
+01:14:38,299 --> 01:14:43,700
+Zawsze miałeś jaja, chłopcze!
+Dlatego cię wtedy oszczędziłem!
+
+746
+01:14:52,000 --> 01:14:56,299
+- Niczego nie zniszczyli.
+<i>- Uwaga, idioci.</i>
+
+747
+01:14:57,799 --> 01:15:02,200
+<i>Szaleniec na dachu tego statku</i>
+<i>dzierży Hadronowego Egzekutora.</i>
+
+748
+01:15:02,399 --> 01:15:05,299
+- To broń mojego projektu.
+- Że co?
+
+749
+01:15:05,500 --> 01:15:08,500
+<i>Jeśli natychmiast</i>
+<i>nie zwrócicie nam towarzyszy,</i>
+
+750
+01:15:08,600 --> 01:15:11,100
+<i>mój kolega wywierci wam</i>
+<i>nową dziurę w dupie.</i>
+
+751
+01:15:11,200 --> 01:15:12,899
+<i>Wyjątkowo wielką dziurę!</i>
+
+752
+01:15:13,100 --> 01:15:16,500
+- Dyrdymały.
+- Liczę do pięciu.
+
+753
+01:15:16,500 --> 01:15:19,500
+<i>- 5,4,3...</i>
+- Nie! Zaczekaj!
+
+754
+01:15:19,799 --> 01:15:23,700
+Rocket, to ja!
+Dogadaliśmy się i wszystko gra!
+
+755
+01:15:23,899 --> 01:15:25,600
+<i>Siema, Quill, co słychać?</i>
+
+756
+01:15:27,000 --> 01:15:31,000
+To ma być "dogadanie się"?
+Okradniemy gości, którzy nas pokonali?
+
+757
+01:15:31,200 --> 01:15:35,000
+Taki jesteś mądry?
+Próbowałeś nas ocalić przez wysadzenie!
+
+758
+01:15:35,100 --> 01:15:37,899
+Tak, ale tylko jeśli
+by was nam nie przekazali!
+
+759
+01:15:38,000 --> 01:15:41,500
+A jak niby mieli to zrobić,
+skoro zgodziłeś się policzyć tylko do 5?
+
+760
+01:15:41,600 --> 01:15:45,100
+Nie mieliśmy czasu
+na dopracowanie szczegółów.
+
+761
+01:15:45,200 --> 01:15:47,500
+Oto nasza nagroda za altruizm.
+
+762
+01:15:47,600 --> 01:15:49,799
+- Jestem Groot.
+- A oni są niewdzięczni.
+
+763
+01:15:49,899 --> 01:15:54,100
+Teraz musimy koniecznie nakłonić Łowców,
+by pomogli nam ocalić Xandar.
+
+764
+01:15:54,200 --> 01:15:57,500
+Żebyśmy oddali kamień Yondu?
+By sprzedał go gorszemu łotrowi?
+
+765
+01:15:57,600 --> 01:15:59,299
+Nad tym zastanowimy się później.
+
+766
+01:15:59,399 --> 01:16:02,500
+- Teraz musimy powstrzymać Ronana.
+- Jak?
+
+767
+01:16:02,600 --> 01:16:04,799
+- Mam plan.
+- Powaga?
+
+768
+01:16:05,299 --> 01:16:07,899
+- Tak.
+- Po pierwsze, ściągasz ze mnie.
+
+769
+01:16:08,000 --> 01:16:09,399
+- To mój tekst.
+- Nieprawda.
+
+770
+01:16:09,600 --> 01:16:12,500
+Ludzie cały czas to mówią.
+Nic nadzwyczajnego.
+
+771
+01:16:12,600 --> 01:16:17,299
+- Po drugie, nie wierzę, że masz plan.
+- Mam część planu!
+
+772
+01:16:17,500 --> 01:16:20,600
+- Jaki procent planu?
+- Ty siedź cicho!
+
+773
+01:16:20,700 --> 01:16:24,100
+- Pamiętasz, co odwaliłeś na Nigdzieś?
+- Właśnie uratowałem Quilla.
+
+774
+01:16:24,200 --> 01:16:26,899
+Wysadzenie statku z ratowanymi
+nie jest formą ratunku, mówiliśmy.
+
+775
+01:16:27,000 --> 01:16:29,299
+- Kiedy mówiliście?
+- Trzy sekundy wcześniej!
+
+776
+01:16:29,399 --> 01:16:31,600
+Nie słuchałem.
+Zajęty byłem rozmyślaniem.
+
+777
+01:16:32,000 --> 01:16:33,899
+Ona ma rację.
+Siedź cicho.
+
+778
+01:16:33,899 --> 01:16:36,500
+- To ile procent?
+- Nie wiem, dwanaście?
+
+779
+01:16:36,600 --> 01:16:37,899
+Dwanaście procent?
+
+780
+01:16:40,000 --> 01:16:41,200
+Ale sztuczny śmiech.
+
+781
+01:16:41,299 --> 01:16:43,000
+- Naturalny!
+- Ta, jasne.
+
+782
+01:16:43,100 --> 01:16:47,700
+To najprawdziwszy napad
+histerycznego śmiechu w moim życiu.
+
+783
+01:16:47,899 --> 01:16:50,399
+- Bo to nie jest żaden plan.
+- To zarys pomysłu.
+
+784
+01:16:50,600 --> 01:16:52,899
+- Przeszłaś na ich stronę?
+- Jestem Groot.
+
+785
+01:16:53,100 --> 01:16:56,100
+Że niby lepsze to niż 11%?
+A jaki to ma związek?
+
+786
+01:16:56,200 --> 01:16:58,299
+Dziękuję ci, Groot.
+
+787
+01:16:58,899 --> 01:17:02,299
+Widzicie? Tylko Groot
+ma o tym zielone pojęcie.
+
+788
+01:17:07,399 --> 01:17:10,299
+No weźcie.
+
+789
+01:17:10,500 --> 01:17:15,000
+Zaraz przyjdzie tu Yondu.
+Chce wysłuchać naszego super planu.
+
+790
+01:17:16,399 --> 01:17:18,299
+Pomóżcie.
+
+791
+01:17:20,100 --> 01:17:23,899
+Tak na nas patrzę
+i wiecie, co widzę?
+
+792
+01:17:25,200 --> 01:17:26,700
+Frajerów.
+
+793
+01:17:28,600 --> 01:17:32,200
+Ziomków, którzy
+coś po drodze zgubili.
+
+794
+01:17:32,299 --> 01:17:35,299
+I dokładnie tak było.
+Każde z nas coś straciło.
+
+795
+01:17:35,600 --> 01:17:41,200
+Nasze domy, rodziny,
+błogą codzienność.
+
+796
+01:17:42,200 --> 01:17:45,700
+Życie na ogół więcej odbiera, niż daje.
+Ale nie dziś.
+
+797
+01:17:45,799 --> 01:17:49,200
+Dziś coś od niego otrzymaliśmy.
+Życie dało nam szansę.
+
+798
+01:17:49,299 --> 01:17:53,700
+- Żeby co zrobić?
+- Żeby nie dać dupy.
+
+799
+01:17:54,500 --> 01:17:58,500
+Żeby chociaż raz
+nie zwiać z podkulonym ogonem.
+
+800
+01:18:01,399 --> 01:18:07,000
+Nie będę stał z boku i patrzył,
+jak Ronan morduje miliardy niewinnych.
+
+801
+01:18:08,100 --> 01:18:13,799
+Nie da się powstrzymać Ronana, Quill.
+To niemożliwe.
+
+802
+01:18:14,399 --> 01:18:16,600
+Prosisz nas o pójście na śmierć.
+
+803
+01:18:23,299 --> 01:18:25,200
+Chyba tak.
+
+804
+01:18:38,100 --> 01:18:39,100
+Quill.
+
+805
+01:18:43,399 --> 01:18:46,700
+Większość życia spędziłam
+otoczona wrogami.
+
+806
+01:18:50,700 --> 01:18:54,899
+Będę szczęśliwa,
+mogąc umrzeć wśród przyjaciół.
+
+807
+01:18:59,200 --> 01:19:04,600
+Jesteś szlachetnym człowiekiem, Quill.
+Będę walczył u twego boku.
+
+808
+01:19:06,299 --> 01:19:11,700
+A po wszystkim
+znów ujrzę mą żonę i córkę.
+
+809
+01:19:17,799 --> 01:19:20,899
+Jestem Groot.
+
+810
+01:19:31,200 --> 01:19:34,399
+A co mi szkodzi.
+I tak za długo sobie nie pożyję.
+
+811
+01:19:40,500 --> 01:19:43,200
+Patrzcie, wstałem.
+Cieszycie się?
+
+812
+01:19:43,200 --> 01:19:48,799
+Wszyscy sobie stoimy.
+Banda buraków w kółeczku.
+
+813
+01:19:55,899 --> 01:19:59,700
+Kamień reaguje z materią organiczną.
+Im większy cel, tym większa moc.
+
+814
+01:19:59,799 --> 01:20:03,000
+Ronan musi tylko dotknąć Kamieniem
+powierzchni planety i bang,
+
+815
+01:20:03,200 --> 01:20:07,000
+- rośliny, zwierzęta, Nova Corps.
+- Wszystko zginie.
+
+816
+01:20:07,100 --> 01:20:10,000
+Ronan więc
+za nic nie może wylądować.
+
+817
+01:20:12,000 --> 01:20:16,000
+<i>Rocket dowodzi ekipą, której zadaniem</i>
+jest wysadzenie dziury w statku.
+
+818
+01:20:16,100 --> 01:20:20,500
+Przez nią wlecimy do środka
+my oraz Yondu.
+
+819
+01:20:20,600 --> 01:20:23,399
+A w środku nie będzie
+setek sakaarańskich żołnierzy?
+
+820
+01:20:23,700 --> 01:20:26,799
+Sakaaranie to w mojej opinii
+ludzie wykonani z papieru.
+
+821
+01:20:32,100 --> 01:20:34,899
+Kiedy zostaniemy wykryci,
+Ronan się odizoluje.
+
+822
+01:20:35,000 --> 01:20:39,700
+Przez drzwi nie da się przebić.
+<i>Wyłączę jednak ich zasilanie.</i>
+
+823
+01:20:39,799 --> 01:20:45,600
+<i>Wejdziemy do środka, a ja zabiję Ronana</i>
+<i>za pomocą Hadronowego Egzekutora.</i>
+
+824
+01:20:46,899 --> 01:20:53,000
+Kiedy to zrobimy, zgarniemy Kamień.
+Używajcie tylko tych urządzeń.
+
+825
+01:20:53,299 --> 01:20:56,700
+Jeśli dotkniecie Kamienia,
+poniesiecie śmierć.
+
+826
+01:20:59,500 --> 01:21:02,799
+<i>Skontaktuję się z oficerem z Novy,</i>
+<i>który nas aresztował.</i>
+
+827
+01:21:02,899 --> 01:21:05,700
+<i>Oby uwierzyli, że chcemy pomóc.</i>
+<i>POŁĄCZENIE PRZYCHODZĄCE</i>
+
+828
+01:21:06,100 --> 01:21:09,600
+Potrzeba jeszcze jednej rzeczy,
+by wykonać nasz plan!
+
+829
+01:21:10,000 --> 01:21:11,799
+Oka tego kolesia.
+
+830
+01:21:12,100 --> 01:21:16,000
+Nie,
+wcale tego nie potrzeba.
+
+831
+01:21:16,799 --> 01:21:19,799
+Ale poważnie, muszę je mieć!
+To dla mnie ważne.
+
+832
+01:21:24,299 --> 01:21:27,399
+<i>Wykryto flotę.</i>
+<i>Szacowany czas przybycia:</i>
+
+833
+01:21:27,600 --> 01:21:29,100
+<i>15 minut.</i>
+
+834
+01:21:29,600 --> 01:21:31,000
+Pamiętaj, chłopcze.
+
+835
+01:21:31,500 --> 01:21:34,799
+Na samym końcu
+to ja dostaję ten Kamień.
+
+836
+01:21:35,000 --> 01:21:38,399
+Jeśli spróbujesz mnie oszukać,
+wyrżniemy was.
+
+837
+01:22:00,100 --> 01:22:01,399
+Brać ich, chłopcy!
+
+838
+01:22:10,899 --> 01:22:14,799
+- Ten plan jest do chrzanu.
+- Chciałaś umrzeć wśród przyjaciół.
+
+839
+01:22:20,000 --> 01:22:24,600
+Novo Prime, otrzymałem wiadomość
+od jednego z Łowców.
+
+840
+01:22:24,700 --> 01:22:27,700
+Ronan ma artefakt
+zwany Kamieniem Nieskończoności.
+
+841
+01:22:27,899 --> 01:22:30,600
+- I leci do nas.
+- Boże Święty.
+
+842
+01:22:30,799 --> 01:22:32,799
+To podstęp.
+Wiadomość wysłał przestępca.
+
+843
+01:22:32,899 --> 01:22:37,600
+- Dlaczego mamy mu uwierzyć?
+- Jego banda właśnie uciekła z więzienia.
+
+844
+01:22:37,799 --> 01:22:40,700
+Powiedział, że nie ryzykowałby ot tak
+przybycia na Xandar.
+
+845
+01:22:41,500 --> 01:22:42,700
+Mówi, że jest...
+
+846
+01:22:43,799 --> 01:22:45,200
+"dupkiem".
+
+847
+01:22:45,200 --> 01:22:48,299
+Ale nie jest zarazem,
+i tu po prostu go zacytuję,
+
+848
+01:22:48,399 --> 01:22:50,600
+"stuprocentowym fiutem".
+
+849
+01:22:50,799 --> 01:22:53,500
+- Wierzysz mu?
+- Nie wiem, czy wierzę,
+
+850
+01:22:53,600 --> 01:22:55,899
+że ktokolwiek może być
+stuprocentowym fiutem.
+
+851
+01:22:55,899 --> 01:22:59,700
+Wierzysz, że naprawdę
+chce nam pomóc?
+
+852
+01:23:02,500 --> 01:23:03,500
+Tak.
+
+853
+01:23:13,600 --> 01:23:17,500
+Zbliża się jakaś flota.
+To prawdopodobnie Łowcy.
+
+854
+01:23:28,600 --> 01:23:29,700
+Ognia!
+
+855
+01:23:40,700 --> 01:23:43,899
+I teraz dołem.
+Nurkować!
+
+856
+01:23:56,799 --> 01:23:58,000
+Rocket, ruchy!
+
+857
+01:24:04,500 --> 01:24:07,000
+Piloci, nurkujcie!
+<i>Są pod nami!</i>
+
+858
+01:24:15,899 --> 01:24:17,299
+Ewakuować miasto.
+
+859
+01:24:17,500 --> 01:24:21,000
+Najważniejsze jest dla nas
+ocalenie cywili.
+
+860
+01:24:28,000 --> 01:24:29,000
+Cała naprzód!
+
+861
+01:24:42,600 --> 01:24:43,500
+No, dalej!
+
+862
+01:24:45,299 --> 01:24:46,799
+Quill! Yondu!
+Teraz!
+
+863
+01:25:09,100 --> 01:25:12,200
+Cholera!
+Dostałem i spadam, Quill!
+
+864
+01:25:12,399 --> 01:25:17,200
+Pamiętaj: żadnych sztuczek!
+Widzimy się po wszystkim!
+
+865
+01:25:23,600 --> 01:25:27,399
+Jest ich zbyt wielu!
+Nigdy się przez to nie przebijemy!
+
+866
+01:25:42,500 --> 01:25:43,600
+<i>Peterze Quill.</i>
+
+867
+01:25:43,799 --> 01:25:46,100
+Mówi Denarian Saal
+z Nova Corps.
+
+868
+01:25:46,299 --> 01:25:49,600
+Żeby było jasne:
+sprzeciwiłem się zaufaniu wam.
+
+869
+01:25:49,799 --> 01:25:53,299
+- Dostali moją wiadomość o fiucie!
+- Obym się mylił.
+
+870
+01:26:00,200 --> 01:26:02,000
+Tak!
+
+871
+01:26:23,299 --> 01:26:24,299
+Tak!
+
+872
+01:26:27,799 --> 01:26:29,700
+Jesteśmy jak Kevin Bacon.
+
+873
+01:26:33,700 --> 01:26:36,700
+Przelecieli przez wyrwę w poszyciu!
+Są na pokładzie.
+
+874
+01:26:36,799 --> 01:26:39,600
+- Kontynuować podejście.
+- Nova Corps włączyły się do walki!
+
+875
+01:26:39,799 --> 01:26:42,399
+Wszystko to będzie bez znaczenia,
+gdy już wylądujemy.
+
+876
+01:26:42,500 --> 01:26:44,700
+Zabezpieczyć grodzie!
+Już!
+
+877
+01:26:46,500 --> 01:26:48,799
+Z drogi!
+
+878
+01:27:00,100 --> 01:27:01,500
+Ja cię.
+
+879
+01:27:01,700 --> 01:27:06,100
+Piloci Novy, połączcie się
+i uformujcie blokadę.
+
+880
+01:27:06,299 --> 01:27:10,100
+<i>Mroczny Astrocyt</i>
+<i>nie może wylądować.</i>
+
+881
+01:27:22,600 --> 01:27:25,799
+- Na miejscu!
+- Na miejscu.
+
+882
+01:27:27,399 --> 01:27:28,399
+Na miejscu.
+
+883
+01:28:06,700 --> 01:28:08,799
+Ledwie tu widzę.
+
+884
+01:28:35,200 --> 01:28:36,899
+Kiedy się tego nauczyłeś?
+
+885
+01:28:37,500 --> 01:28:40,299
+Odpowiedzią będzie zapewne
+"Jestem Groot".
+
+886
+01:28:41,500 --> 01:28:44,000
+Nasz pokład jest
+300 metrów stąd.
+
+887
+01:28:46,799 --> 01:28:51,100
+Wdzięczny jestem za wasze zrozumienie
+dla popełnionych przeze mnie gaf.
+
+888
+01:28:51,200 --> 01:28:55,000
+Wspaniale jest znów mieć
+przyjaciół.
+
+889
+01:28:56,100 --> 01:29:00,299
+- Jesteś mi przyjacielem, Quill.
+- Dzięki.
+
+890
+01:29:00,500 --> 01:29:03,000
+To głupionieme drzewo również.
+
+891
+01:29:04,700 --> 01:29:07,500
+- Jako i ta zielona suka...
+- Skończ już!
+
+892
+01:29:10,500 --> 01:29:15,899
+Spójrz, do czego doprowadziłaś, Gamoro.
+Zawsze byłaś słaba.
+
+893
+01:29:16,200 --> 01:29:18,200
+Głupia, zdradzie...
+
+894
+01:29:23,500 --> 01:29:26,700
+Nikt nie będzie się tak zwracał
+do moich przyjaciół.
+
+895
+01:29:26,899 --> 01:29:30,700
+Idźcie do Ronana.
+Ja odłączę zasilanie grodzi.
+
+896
+01:29:38,299 --> 01:29:40,500
+Yondu Udonto.
+
+897
+01:29:40,700 --> 01:29:44,200
+Rozkaż swoim ludziom
+zaatakowanie Nova Corps.
+
+898
+01:30:01,000 --> 01:30:04,500
+Dość już tego, Łowco!
+Pora umie...
+
+899
+01:30:37,299 --> 01:30:39,200
+Proszę, Nebulo.
+
+900
+01:30:52,799 --> 01:30:55,500
+Dość tego.
+Piloci floty Necrocraftu,
+
+901
+01:30:55,700 --> 01:30:57,700
+dokonajcie poświęcenia!
+
+902
+01:31:01,299 --> 01:31:04,600
+To atak samobójczy!
+Mamy lecieć za nimi?
+
+903
+01:31:04,799 --> 01:31:06,399
+Nie!
+Zostańcie na miejscu.
+
+904
+01:31:38,100 --> 01:31:41,299
+Siedź z Ronanem na górze, Saal.
+<i>My pomożemy cywilom.</i>
+
+905
+01:31:41,399 --> 01:31:44,299
+Nie wierzę.
+Rozkazuje mi gadający chomik.
+
+906
+01:31:46,799 --> 01:31:49,500
+- Star-Lord.
+- No w końcu.
+
+907
+01:32:00,399 --> 01:32:01,700
+Ty złodzieju!
+
+908
+01:32:13,399 --> 01:32:16,200
+Nigdy nie dojdziecie
+aż do Ronana.
+
+909
+01:32:21,899 --> 01:32:25,200
+Powystrzelajcie ich,
+zanim zdążą się rozbić!
+
+910
+01:32:32,899 --> 01:32:34,200
+Jedziesz!
+
+911
+01:33:17,100 --> 01:33:20,500
+Palec na gardle
+oznacza śmierć.
+
+912
+01:33:26,399 --> 01:33:29,200
+- To metafora.
+- Coś w tym rodzaju.
+
+913
+01:33:29,399 --> 01:33:30,500
+O nie.
+
+914
+01:33:58,500 --> 01:34:03,200
+Xandarianie!
+Oskarżam was.
+
+915
+01:34:04,000 --> 01:34:08,399
+<i>Nędzny traktat pokojowy</i>
+<i>nie ocali wam teraz życia.</i>
+
+916
+01:34:08,899 --> 01:34:12,100
+Oto płomień,
+który obróci was w popiół.
+
+917
+01:34:36,799 --> 01:34:39,700
+- Rocket!
+- Wytrzymaj jeszcze chwilę, Saal!
+
+918
+01:35:06,500 --> 01:35:12,100
+Lepiej się pośpiesz, Quill.
+<i>Miasto ewakuowano, ale dostajemy po dupie.</i>
+
+919
+01:35:12,200 --> 01:35:14,600
+Gamora jeszcze nie otworzyła drzwi!
+
+920
+01:35:38,399 --> 01:35:39,399
+Nebula!
+
+921
+01:35:41,000 --> 01:35:45,299
+Pomóż nam walczyć z Ronanem, siostro!
+Wiesz, że to szaleniec.
+
+922
+01:35:45,600 --> 01:35:48,899
+- Oboje jesteście szaleni.
+- Nie!
+
+923
+01:35:51,899 --> 01:35:55,600
+- Co...
+<i>- Wyjazd stąd!</i>
+
+924
+01:36:37,100 --> 01:36:38,100
+Udało ci się!
+
+925
+01:37:04,600 --> 01:37:07,600
+Myliłem się.
+Pamiętam twoją rodzinę.
+
+926
+01:37:08,200 --> 01:37:12,200
+Ich krzyki były
+godne pożałowania i...
+
+927
+01:39:09,399 --> 01:39:12,200
+Nie, Groot!
+Nie możesz tego zrobić.
+
+928
+01:39:12,299 --> 01:39:13,700
+Umrzesz.
+
+929
+01:39:14,299 --> 01:39:17,799
+Dlaczego to robisz?
+Dlaczego?
+
+930
+01:39:24,399 --> 01:39:27,399
+Jesteśmy...
+
+931
+01:39:28,100 --> 01:39:29,500
+Groot.
+
+932
+01:40:34,000 --> 01:40:36,500
+A ja nazywałem go idiotą.
+
+933
+01:40:58,700 --> 01:41:00,600
+Zabiłeś Groota!
+
+934
+01:41:04,799 --> 01:41:06,100
+Spójrzcie!
+
+935
+01:41:07,000 --> 01:41:13,000
+Oto wasi Strażnicy Galaktyki.
+Jaki owoc zrodził ich trud?
+
+936
+01:41:13,100 --> 01:41:17,200
+Taki tylko, że mój ojciec
+oraz ojciec jego ojca
+
+937
+01:41:17,299 --> 01:41:20,799
+nareszcie poznają
+smak zemsty.
+
+938
+01:41:21,000 --> 01:41:27,299
+Obywatele Xandaru!
+Nadszedł oto czas radości,
+
+939
+01:41:27,399 --> 01:41:31,799
+czas wyrzeczenia się
+waszych nędznych bogów!
+
+940
+01:41:31,899 --> 01:41:35,200
+Zbawienie jest
+w zasięgu ręki.
+
+941
+01:41:39,500 --> 01:41:43,799
+<i>Och, kochanie,</i>
+<i>kiedyś wszystko będzie prostsze.</i>
+
+942
+01:41:44,100 --> 01:41:47,799
+<i>Och, kochanie,</i>
+<i>kiedyś wszystko się polepszy.</i>
+
+943
+01:41:47,899 --> 01:41:49,399
+Słuchaj tekstu.
+
+944
+01:41:49,700 --> 01:41:54,799
+<i>Och, kochanie,</i>
+<i>kiedyś wszystko będzie prostsze.</i>
+
+945
+01:41:55,000 --> 01:41:58,399
+<i>Och, kochanie,</i>
+<i>kiedyś wszystko się polepszy.</i>
+
+946
+01:41:58,500 --> 01:42:00,100
+A teraz jazda!
+
+947
+01:42:00,500 --> 01:42:03,500
+<i>Pewnego dnia</i>
+<i>zbierzemy to wszystko do kupy...</i>
+
+948
+01:42:03,600 --> 01:42:06,600
+- Co to ma znaczyć?
+- Pojedynek taneczny, brachu.
+
+949
+01:42:06,899 --> 01:42:09,600
+Ja kontra ty.
+
+950
+01:42:11,200 --> 01:42:12,600
+Gamora?
+
+951
+01:42:13,600 --> 01:42:15,600
+No to jadę sam.
+
+952
+01:42:16,100 --> 01:42:21,000
+- Co ty robisz?
+- Odwracam twoją uwagę, ćwoku.
+
+953
+01:42:37,200 --> 01:42:38,700
+Nie!
+
+954
+01:43:12,700 --> 01:43:16,500
+Peter!
+Złap mnie za rękę!
+
+955
+01:43:21,299 --> 01:43:25,600
+- Złap mnie za rękę, Peter.
+- Mamo?
+
+956
+01:43:26,100 --> 01:43:28,100
+<i>Złap mnie za rękę!</i>
+
+957
+01:44:22,600 --> 01:44:26,000
+Jesteście śmiertelnikami!
+Jak?!
+
+958
+01:44:26,200 --> 01:44:30,799
+Sam to powiedziałeś, szmato.
+Jesteśmy Strażnikami Galaktyki.
+
+959
+01:45:00,700 --> 01:45:04,500
+No proszę.
+Cóż za fajerwerki.
+
+960
+01:45:05,799 --> 01:45:07,500
+Urocze.
+
+961
+01:45:09,100 --> 01:45:14,100
+Dokończmy jednak pewne interesy,
+zanim zacznie się bara-bara.
+
+962
+01:45:15,799 --> 01:45:20,200
+- Nie możesz tego zrobić, Peter.
+- Przemyśl to, Yondu.
+
+963
+01:45:20,799 --> 01:45:24,399
+Nie wiem, komu chcesz to opchnąć,
+ale Wszechświat przetrwa
+
+964
+01:45:24,500 --> 01:45:26,899
+tylko jeśli oddasz Kamień
+Nova Corps.
+
+965
+01:45:27,000 --> 01:45:29,700
+Może i jestem
+piękny jak aniołek,
+
+966
+01:45:31,399 --> 01:45:34,299
+ale nie mam z tym ścierwem
+nic wspólnego.
+
+967
+01:45:35,000 --> 01:45:36,500
+Oddaj Kamień, synu.
+
+968
+01:45:57,500 --> 01:46:00,700
+Nie otwieraj tej Kuli.
+Rozumiesz?
+
+969
+01:46:01,399 --> 01:46:03,799
+Widziałeś, co to coś
+robi z ludźmi.
+
+970
+01:46:14,600 --> 01:46:16,799
+Quill to jednak równy gość.
+
+971
+01:46:17,700 --> 01:46:21,399
+Chyba dobrześmy zrobili,
+nie odwożąc go do taty zgodnie z umową.
+
+972
+01:46:21,500 --> 01:46:24,200
+No.
+Jego stary to dupek.
+
+973
+01:46:29,100 --> 01:46:33,799
+Ale się wścieknie, kiedy odkryje,
+że podmieniłem Kule.
+
+974
+01:46:35,399 --> 01:46:40,100
+- Będzie chciał cię zabić.
+- Wiem.
+
+975
+01:46:42,000 --> 01:46:47,600
+- Ale to moja jedyna rodzina.
+- Nieprawda.
+
+976
+01:46:48,899 --> 01:46:50,000
+Nie jedyna.
+
+977
+01:47:38,299 --> 01:47:39,600
+<i>Skąd to wiecie?</i>
+
+978
+01:47:40,000 --> 01:47:42,700
+W trakcie aresztowania
+wykryliśmy pewną anomalię.
+
+979
+01:47:42,799 --> 01:47:47,100
+- Kazaliśmy to zbadać.
+- Nie jestem Terraninem?
+
+980
+01:47:47,299 --> 01:47:50,700
+Jesteś, w połowie.
+Twoja matka pochodziła z Ziemi.
+
+981
+01:47:50,799 --> 01:47:52,799
+Twój ojciec natomiast...
+
+982
+01:47:52,799 --> 01:47:56,299
+jest jakąś starożytną istotą.
+Nie znamy tego gatunku.
+
+983
+01:47:56,700 --> 01:48:00,200
+Pewnie dlatego mogłeś
+tak długo utrzymać Kamień.
+
+984
+01:48:01,100 --> 01:48:03,100
+Wasi przyjaciele nadchodzą.
+
+985
+01:48:04,100 --> 01:48:10,100
+W imieniu Nova Corps pragnę
+wyrazić naszą dozgonną wdzięczność
+
+986
+01:48:10,200 --> 01:48:12,799
+za pomoc w ocaleniu Xandaru.
+
+987
+01:48:13,700 --> 01:48:18,100
+Denarian Dey nadto
+pragnie wam coś pokazać.
+
+988
+01:48:18,299 --> 01:48:20,000
+Dziękujemy, Novo Prime.
+
+989
+01:48:28,700 --> 01:48:33,299
+Niech twoja rodzina spoczywa w pokoju,
+wiedząc, że ją pomściłeś.
+
+990
+01:48:33,700 --> 01:48:36,899
+Tak.
+Lecz Ronan był tylko marionetką.
+
+991
+01:48:37,700 --> 01:48:41,299
+To Thanos jest tym,
+którego muszę zgładzić.
+
+992
+01:48:42,500 --> 01:48:45,299
+Staraliśmy się jak najwierniej
+odtworzyć oryginał.
+
+993
+01:48:45,899 --> 01:48:48,299
+Odzyskaliśmy, ile się tylko dało.
+
+994
+01:48:54,000 --> 01:48:55,000
+Dzięki.
+
+995
+01:48:56,600 --> 01:49:00,200
+Moja rodzina przeżyła
+tylko dzięki wam.
+
+996
+01:49:04,799 --> 01:49:07,299
+Wymazaliśmy wasze kartoteki.
+
+997
+01:49:07,500 --> 01:49:11,399
+Lepiej jednak, byście
+nie łamali w przyszłości prawa.
+
+998
+01:49:12,100 --> 01:49:12,799
+Mam pytanie.
+
+999
+01:49:12,899 --> 01:49:15,799
+Co jeśli zechcę zabrać
+rzecz należącą do kogoś innego?
+
+1000
+01:49:15,899 --> 01:49:17,200
+Zostaniesz aresztowany.
+
+1001
+01:49:17,299 --> 01:49:19,399
+Nawet pragnąc jej
+bardziej od właściciela?
+
+1002
+01:49:20,000 --> 01:49:22,000
+- To byłoby złamanie prawa.
+- Co za bzdury.
+
+1003
+01:49:22,200 --> 01:49:24,899
+Mogę chcieć bardziej, tak?
+Z czego się śmiejesz?
+
+1004
+01:49:25,100 --> 01:49:26,500
+Nie mogę rozmawiać z panem?
+
+1005
+01:49:26,600 --> 01:49:31,799
+A jeśli ktoś popełni nieprzyjemny czyn
+i postanowię pozbawić go kręgosłupa?
+
+1006
+01:49:32,399 --> 01:49:37,200
+To byłoby...
+morderstwo.
+
+1007
+01:49:38,100 --> 01:49:44,100
+Jedna z najcięższych zbrodni.
+I złamanie prawa.
+
+1008
+01:49:47,799 --> 01:49:50,799
+Będą grzeczni, Dey.
+Przypilnuję ich.
+
+1009
+01:49:51,000 --> 01:49:51,899
+Ty?
+
+1010
+01:49:55,299 --> 01:49:58,200
+Owszem, ja.
+
+1011
+01:50:05,200 --> 01:50:07,200
+<i>Dla Petera</i>
+
+1012
+01:50:17,299 --> 01:50:18,700
+<i>Peterze.</i>
+
+1013
+01:50:19,399 --> 01:50:23,700
+<i>Wiem, że kilka ostatnich miesięcy</i>
+<i>nie było dla ciebie lekkich.</i>
+
+1014
+01:50:24,000 --> 01:50:29,200
+<i>Odchodzę jednak w lepsze miejsce.</i>
+<i>Wszystko będzie ze mną dobrze.</i>
+
+1015
+01:50:29,399 --> 01:50:33,100
+<i>I zawsze będę nad tobą czuwać.</i>
+
+1016
+01:50:34,799 --> 01:50:39,799
+<i>Jesteś światłem mojego życia,</i>
+<i>mój najdroższy synku.</i>
+
+1017
+01:50:40,799 --> 01:50:43,700
+<i>Mój malutki Star-Lordzie.</i>
+
+1018
+01:50:44,500 --> 01:50:46,399
+<i>Kocham cię.</i>
+<i>Mama.</i>
+
+1019
+01:51:04,100 --> 01:51:07,100
+<i>Super Hity, cz. 2</i>
+
+1020
+01:51:17,500 --> 01:51:21,500
+<i>Słuchaj, słońce,</i>
+<i>nie ma góry za wysokiej</i>
+
+1021
+01:51:21,799 --> 01:51:27,299
+<i>ni doliny zbyt głębokiej,</i>
+<i>ni to rzeki dość szerokiej.</i>
+
+1022
+01:51:27,399 --> 01:51:29,600
+<i>Gdy się dzieje źle,</i>
+<i>wołaj mnie,</i>
+
+1023
+01:51:29,700 --> 01:51:33,500
+<i>skąd - nieważne,</i>
+<i>że z daleka - mniejsza o to.</i>
+
+1024
+01:51:33,600 --> 01:51:36,700
+<i>- Nie martw się.</i>
+<i>- Zawołaj głośno,</i>
+
+1025
+01:51:36,799 --> 01:51:40,500
+<i>a pośpieszę z pomocą;</i>
+<i>nie martw się.</i>
+
+1026
+01:51:40,899 --> 01:51:45,200
+<i>Bo, słońce,</i>
+<i>nie ma góry tak wysokiej</i>
+
+1027
+01:51:45,399 --> 01:51:52,600
+<i>ni doliny zbyt głębokiej,</i>
+<i>ni to rzeki dość szerokiej,</i>
+
+1028
+01:51:52,799 --> 01:51:56,799
+<i>bym z daleka trzymał się.</i>
+
+1029
+01:51:57,899 --> 01:52:01,799
+<i>- O, nie, piękna.</i>
+<i>- O, nie.</i>
+
+1030
+01:52:03,799 --> 01:52:08,299
+<i>Żadna zima</i>
+<i>mnie nie zatrzyma.</i>
+
+1031
+01:52:08,700 --> 01:52:11,600
+<i>- Nie.</i>
+<i>- Bo kocham cię.</i>
+
+1032
+01:52:11,700 --> 01:52:15,000
+<i>Gdybyś miała kłopoty,</i>
+<i>to popędzę galopem.</i>
+
+1033
+01:52:15,000 --> 01:52:18,799
+<i>Tylko daj mi jakoś znać.</i>
+
+1034
+01:52:19,600 --> 01:52:23,200
+<i>W głębi serca</i>
+<i>kocham cię, słońce,</i>
+
+1035
+01:52:23,299 --> 01:52:25,600
+<i>i choć śpiewam to</i>
+<i>ze świata końca...</i>
+
+1036
+01:52:25,700 --> 01:52:28,700
+<i>Jeśli ci trzeba</i>
+<i>pomocy w kłopocie,</i>
+
+1037
+01:52:28,799 --> 01:52:32,299
+<i>przybędę natychmiast,</i>
+<i>pędząc galopem!</i>
+
+1038
+01:52:32,399 --> 01:52:36,799
+<i>Nie wiesz,</i>
+<i>że nie ma góry tak wysokiej</i>
+
+1039
+01:52:37,299 --> 01:52:41,000
+<i>ni doliny zbyt głębokiej,</i>
+
+1040
+01:52:41,100 --> 01:52:46,899
+<i>ni to rzeki dość szerokiej,</i>
+<i>bym z daleka...</i>
+
+1041
+01:52:47,000 --> 01:52:48,600
+To co zrobimy teraz?
+
+1042
+01:52:49,200 --> 01:52:52,100
+Coś dobrego?
+Coś złego?
+
+1043
+01:52:52,700 --> 01:52:55,299
+Trochę jednego i drugiego?
+
+1044
+01:52:55,899 --> 01:52:58,799
+Jak zadecydujesz,
+Star-Lordzie.
+
+1045
+01:53:01,100 --> 01:53:02,799
+To jedno i drugie.
+
+1046
+01:53:17,899 --> 01:53:26,299
+{Y:b}{C:$aaeeff}STRAŻNICY GALAKTYKI
+POWRÓCĄ.
+
+1047
+01:54:10,200 --> 01:54:14,200
+<i>Pamiętajcie o arcyciekawej</i>
+<i>scenie po napisach!</i>
+
+1048
+02:00:26,500 --> 02:00:29,500
+Dlaczego pozwalasz się
+tak lizać temu kundlowi?
+
+1049
+02:00:30,100 --> 02:00:31,700
+Syf.
+
+1050
+02:00:36,299 --> 02:00:38,799
+<i>Ale pali w gardle.</i>
+
+1051
+02:00:41,200 --> 02:00:43,000
+.:: GrupaHatak.pl ::.
+
+1052
+02:00:45,000 --> 02:00:48,000
+.:: Napisy24.pl - Wprost od tłumaczy ::.
+
+1053
+02:00:57,000 --> 02:01:01,000
+.:: Napisy24.pl - Wprost od tłumaczy ::.
+

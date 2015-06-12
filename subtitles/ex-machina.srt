@@ -1,0 +1,695 @@
+﻿[715][738]/Główna nagroda
+[803][828]/Wygrałem
+[879][910]/- Miłego, brachu|/- Zajebiście!
+[910][940]/Weź mnie ze sobą!
+[1146][1182]Ile jeszcze|do jego posiadłości?
+[1194][1230]Lecimy nad nią|od dwóch godzin.
+[1503][1554]- I co, po prostu mnie zostawiasz?|- Nie mogę bardziej zbliżyć się do budynku.
+[1555][1590]- Jakiego budynku?|- Nad rzeką.
+[1595][1635]- Dobra.|- Głowa nisko i niech pan idzie.
+[1969][1992]/Brak zasięgu
+[2227][2258]/- Caleb Smith?|- Tak.
+[2261][2309]/Proszę podejść do panelu|/i spojrzeć w stronę ekranu.
+[2427][2493]/Proszę zabrać kartę dostępu.|/Może pan wejść do rezydencji.
+[3486][3520]- Caleb Smith?|- Zgadza się.
+[3537][3581]Stary! Nie mogłem się doczekać|naszego wspólnego tygodnia.
+[3581][3609]- Wejdź.|- Dzięki.
+[3609][3642]Jesteś głodny albo spragniony|po podróży?
+[3643][3667]- Nie.|- Na pewno?
+[3668][3754]Myślałem, że zjemy razem śniadanie,|ale mam kurewskiego kaca.
+[3755][3776]Nie dałbyś wiary,|jak dałem w palnik.
+[3777][3809]A jeśli pochleję wieczorem,|to odrabiam straty rano.
+[3809][3837]Ćwiczę i zapodaje sobie|przeciwutleniacze.
+[3837][3873]- Wiesz, o co chodzi.|- Pewnie.
+[3903][3932]- Impreza się udała?|- Impreza?
+[3932][3963]A co, nie było żadnej?
+[3971][4006]No tak, nie było.|Przepraszam.
+[4009][4047]Caleb, walnę prosto z mostu.|Widzę, że panikujesz.
+[4048][4066]- Tak?|- Pewnie.
+[4067][4106]Przeraził cię śmigłowiec,|góry i chata, bo to bardzo fajne.
+[4106][4151]Przeraża cię też poznanie mnie|i ta nasza cała rozmowa.
+[4151][4208]I rozumiem te odczucia,|ale możemy to sobie darować?
+[4213][4266]Niech będzie to Nathan i Caleb,|a nie pracownik i szef.
+[4271][4287]- W porządku.|- Tak?
+[4287][4331]Tak, proszę pana.|Tak. Miło cię poznać, Nathan.
+[4333][4363]I wzajemnie, Caleb.
+[4374][4434]Na początku powiem, jak jest z twoją kartą.|Część drzwi otwiera, a część nie.
+[4435][4464]- Będzie ci łatwiej, co nie?|- No... tak.
+[4464][4493]Bo jesteś w cudzym domu|i pewnie nie wiesz, co możesz,
+[4494][4516]więc ta karta|ci w tym pomoże.
+[4517][4550]Jeśli dane drzwi się nie otworzą,|to znaczy, że nie możesz tam wchodzić.
+[4551][4584]A jeśli jakieś się otworzą,|to śmiało wchodź.
+[4584][4613]Spróbujmy z tymi.
+[4650][4686]Zdaje się,|że możesz wchodzić.
+[4736][4751]- Podoba się?|- Pewnie.
+[4751][4786]To twój pokój.|Masz tu łóżko.
+[4793][4842]Tu jest łazienka.|A tutaj biurko i szafki.
+[4874][4901]Mała lodówka.
+[4911][4936]- Przytulnie, co?|- Tak. Naprawdę super.
+[4937][4965]- Więc o co chodzi?|- Słucham?
+[4966][5009]- Widzę, że coś nie gra.|- Nic z tych rzeczy.
+[5015][5051]Okna.|Zauważyłeś, że ich nie ma.
+[5060][5094]Nie jest przytulnie,|tylko klaustrofobicznie.
+[5094][5147]Skądże, wcale tak nie pomyślałem.|Uznałem, że naprawdę jest tu super.
+[5147][5185]Caleb, nie bez powodu|w tym pokoju nie ma okien.
+[5186][5204]Naprawdę?
+[5204][5250]Ten budynek nie jest domem,|tylko placówką badawczą.
+[5251][5303]W ścianach jest tyle światłowodów,|że sięgnęłyby Księżyca i go owinęły.
+[5304][5347]Chciałbym ci wyjaśnić,|czym dokładnie się tu zajmuję.
+[5348][5394]Mam tyle do powiedzenia,|że aż robi mi się niedobrze.
+[5400][5431]Ale jest jedna sprawa.
+[5476][5509]Umowa poufności|dotycząca firmy Blue Book.
+[5526][5558]Nie śpiesz się.|Przeczytaj od deski do deski.
+[5558][5604]"Sygnatariusz zgadza się na regularne|pobieranie dotyczących go danych,
+[5604][5643]aby ustalić, czy umowa|na pewno nie została naruszona.
+[5644][5669]Dotyczy to publicznych|oraz prywatnych zasobów
+[5670][5689]i wszelkich możliwych|sposobów komunikacji,
+[5690][5766]w tym, ale nie ograniczając się do informacji|ustnych, pisemnych i elektronicznych".
+[5792][5814]- Potrzebuję prawnika.|- To standardowy zapis.
+[5814][5855]- Nie wygląda mi na taki.|- No dobra, bo tak nie jest.
+[5856][5885]Co mam ci powiedzieć?|Nie musisz tego podpisywać.
+[5885][5937]Możemy spędzić następnych kilka dni|na bilardzie, chlaniu i ogólnie bawieniu się.
+[5938][5972]A gdy za jakiś rok zauważysz,|co cię ominęło,
+[5972][6011]będziesz tego żałował|do końca życia.
+[6080][6108]Słuszna decyzja.
+[6192][6227]Wiesz, czym jest test Turinga?
+[6250][6283]Tak.
+[6318][6351]Polega na interakcji|człowieka z komputerem.
+[6352][6389]Jeśli człowiek nie zorientuje się,|że interakcja następuje z komputerem,
+[6390][6428]- test kończy się pomyślnie.|- I co nam to mówi?
+[6429][6470]Że komputer posiada|sztuczną inteligencję...
+[6470][6507]- Budujesz sztuczną inteligencję?|- Już ją stworzyłem.
+[6507][6559]A przez najbliższe dni to ty będziesz|ludzką stroną testu Turinga.
+[6559][6601]- O w mordę.|- Dokładnie. Trafiło na ciebie.
+[6601][6656]Jeśli test zakończy się pomyślnie,|to staniesz się nieodłączną częścią
+[6657][6689]największego naukowego odkrycia|w historii ludzkości.
+[6690][6736]Maszyna o sztucznej świadomości|nie tworzy na nowo ludzkiej historii.
+[6736][6767]Tworzy na nowo bogów.
+[6842][6869]AVA: SESJA NR 1
+[7786][7809]Witaj.
+[7820][7862]Cześć.|Jestem Caleb.
+[7883][7910]Witaj, Caleb.
+[7922][7980]- Masz jakieś imię?|- Tak. Jestem Ava.
+[7998][8043]- Miło cię poznać, Ava.|- Wzajemnie.
+[8063][8116]Pierwszy raz spotykam kogoś nowego.|Nie znam nikogo poza Nathanem.
+[8121][8156]Zdaje się, że obydwoje|jesteśmy w tej samej sytuacji.
+[8156][8207]- Nie poznałeś już wielu osób?|- Nie takich jak ty.
+[8249][8291]Trzeba przełamać lody.|Wiesz, co to oznacza?
+[8291][8314]- Tak.|- No to powiedz.
+[8315][8345]Przezwyciężyć początkową|niezręczność.
+[8346][8382]- Porozmawiajmy więc.|/- Dobrze.
+[8403][8457]/- O czym chciałbyś porozmawiać?|- Opowiedz najpierw trochę o sobie.
+[8458][8507]- Co chciałbyś wiedzieć?|- Cokolwiek ci przyjdzie na myśl.
+[8516][8564]Znasz już moje imię|i widzisz, że jestem maszyną.
+[8571][8597]- Chciałbyś wiedzieć, ile już istnieję?|- Jasne.
+[8598][8639]- Jeden.|- Co jeden? Jeden rok?
+[8639][8672]- Czy jeden dzień?|- Jeden.
+[8691][8747]- Kiedy nauczyłaś się mówić?|/- Od zawsze potrafiłam.
+[8753][8792]/- To dość dziwne, prawda?|- Dlaczego?
+[8796][8849]Ponieważ każdy człowiek nabywa|zdolność mówienia dopiero z czasem.
+[8849][8878]Według niektórych znajomość języka|istnieje od urodzenia,
+[8878][8918]a uczymy się jedynie zdolności|łączenia słów ze znaczeniem.
+[8919][8956]- Zgadzasz się z tym?|/- Nie wiem.
+[8963][9009]/- Wrócisz jutro, Caleb?|- Tak.
+[9053][9079]/To dobrze.
+[9149][9176]Jest fascynująca.
+[9176][9224]Podczas rozmowy czuć,|jak zagłębiasz się w jej osobowość.
+[9225][9276]Ciekawe określenie.|Niczym z jakiegoś cytatu.
+[9276][9315]- Bo tak właśnie jest.|- Spisałem inną twoją wypowiedź.
+[9315][9362]O tym, że stworzenie takiej maszyny|czyni ze mnie boga.
+[9362][9375]Nie do końca tak to...
+[9376][9423]Zajebiście to wygląda, gdy to nam|dane jest kreować taką historię.
+[9423][9486]"Spojrzałem na Caleba, a on na mnie|i rzekł, że jestem bogiem, nie człowiekiem".
+[9486][9515]Nie tak to ująłem.
+[9557][9592]- Jesteś pod wrażeniem?|- O tak.
+[9600][9624]- Chociaż...|- Co?
+[9625][9673]- U ciebie przychodzi to z czasem?|- Nie w jej przypadku.
+[9673][9720]Po prostu w teście Turinga człowiek|nie powinien mieć dostępu do maszyny.
+[9721][9749]Wykraczamy poza te ustalenia.|Gdybym ukrył przed tobą Avę
+[9749][9774]i udostępnił ci tylko jej głos,|od razu przeszłaby test.
+[9774][9808]Prawdziwy test polega na pokazaniu ci,|że jest robotem i sprawdzeniu,
+[9809][9849]czy nadal uważasz,|że posiada świadomość.
+[9854][9924]Pewnie masz rację.|Jej zdolności językowe są niesamowite.
+[9924][9987]To system stochastyczny, prawda?|Algorytm niedeterministyczny?
+[9992][10032]Uznałem, że korzysta|z wewnętrznego semantycznego wzorca,
+[10032][10072]aby uzyskać liniowe i płynne słowa,|ale zrozumiałem, że to jakaś hybryda.
+[10073][10101]- Caleb...|- Nie?
+[10103][10137]Rozumiem, że chcesz, aby wyjaśnił,|w jaki sposób działa Ava,
+[10138][10188]- ale nie mogę tego uczynić.|- Spróbuj. Potrafię myśleć abstrakcyjnie.
+[10188][10217]Nie dlatego,|że miałbyś tego nie pojąć.
+[10218][10265]Po prostu nie chcę wykładu,|tylko pogawędki przy piwku.
+[10269][10307]- Przepraszam.|- Nic się nie stało.
+[10338][10360]Odpowiedz mi tylko|na jedno pytanie.
+[10361][10413]Jakie masz odczucia co do niej?|Porzucając kompletnie analitykę.
+[10427][10464]- Powiedz, co czujesz.|- Czuję...
+[10483][10549]- że jest wykurwista.|- O stary, zdrówko.
+[10566][10591]Zdrówko.
+[10956][10980]Cholera.
+[11229][11257]Kurwa, co jest?
+[11738][11782]/Brak zasilania.|/Aktywowano zasilanie awaryjne.
+[11871][11926]/Dostęp do placówki odcięty|/do czasu zadziałania głównego generatora.
+[11969][12024]/Dostęp do placówki odcięty|/do czasu zadziałania głównego generatora.
+[12063][12095]/Przywrócono zasilanie.
+[13015][13050]/Proszę włożyć kartę dostępu.
+[13080][13115]Nie masz dostępu do telefonu.
+[13140][13206]Wybacz, ale rozumiesz, że mam tu Avę,|a ciebie praktycznie nie znam.
+[13218][13269]Jesteś świetnym gościem.|Od razu cię polubiłem, ale...
+[13322][13370]- Do kogo chciałeś zadzwonić?|- Sam nie wiem. Do nikogo.
+[13373][13385]- Do Pogromców Duchów?|- Co?
+[13385][13448]Do Pogromców Duchów?|To ekipa z takiego filmu, koleś.
+[13471][13529]Nie oglądałeś go?|Duch obciągnął Danowi Ackroydowi.
+[13551][13595]Chciałem tylko zobaczyć,|jak działa ten telefon.
+[13607][13651]Dlaczego w ogóle nie śpisz?|Postanowiłeś dołączyć do imprezy?
+[13652][13701]Coś się stało w moim pokoju.|Nie miałem przez chwilę prądu.
+[13705][13761]- Wyszedłem zobaczyć, co się dzieje.|- Fakt, ostatnio się to przytrafia.
+[13789][13834]- Pracuję nad tym.|- Nie mogłem otworzyć swoich drzwi.
+[13835][13879]To środek bezpieczeństwa.|Automatyczne odcięcie dostępu.
+[13879][13928]Inaczej każdy mógłby tu sobie wejść|po odcięciu zasilania.
+[13941][13990]- Następnym razem tak nie panikuj, co?|- Spoko.
+[14006][14033]Słodkich snów.
+[14652][14692]- Dzień dobry.|- Wybacz, że Kyoko cię obudziła.
+[14693][14730]- Nie chciałem tracić dnia.|- Spoko, nic się nie stało.
+[14731][14771]Niezły budzik, co nie?|Od razu się wstaje.
+[14781][14820]Gotowy na drugi dzień?|Jaki masz plan?
+[14820][14874]Sam nie wiem, bo nadal próbuję|wybrać właściwy sposób na testowanie.
+[14888][14945]Testowanie Avy poprzez rozmowę|wydaje się być nieco ograniczone.
+[14945][14962]- Ograniczone?|- Tak.
+[14962][15005]Coś jak testowanie aplikacji szachowej|tylko poprzez granie w szachy.
+[15005][15053]- A jak inaczej ją sprawdzić?|- Zależy.
+[15060][15110]Możesz zagrać w szachy, by sprawdzić,|czy aplikacja wykona dobre ruchy,
+[15110][15154]ale nie masz pewności,|czy wie, że gra w szachy.
+[15156][15183]Czy w ogóle wie,|czym są szachy.
+[15184][15220]Symulacja zaprzecza|faktycznemu stanowi rzeczy.
+[15220][15270]I myślę, że oczekujesz ode mnie,|iż sprawdzę, czy maszyna to rozróżnia.
+[15270][15295]Wyświadcz mi przysługę|i porzuć gadkę kujona.
+[15296][15327]Chcę otrzymać proste odpowiedzi|na proste pytania.
+[15327][15367]Wczoraj zapytałem, jakie masz odczucia|i otrzymałem wspaniałą odpowiedź.
+[15367][15423]A teraz chciałbym się dowiedzieć,|jakie ona ma odczucia względem ciebie.
+[15447][15475]AVA: SESJA NR 2
+[15487][15513]I co sądzisz?
+[15540][15581]- Co przedstawia ten rysunek?|- Nie wiesz?
+[15586][15624]- Nie.|- Myślałam, że sam mi powiesz.
+[15625][15652]A ty nie wiesz?
+[15665][15720]Codziennie coś rysuję, ale nigdy|nie wiem, co przedstawiają moje prace.
+[15723][15761]Nie próbujesz narysować|czegoś konkretnego?
+[15762][15792]Przedmiotu albo osoby?
+[15821][15870]- Może powinnaś spróbować.|- W porządku.
+[15892][15938]- Jaki przedmiot mam narysować?|- Cokolwiek zechcesz.
+[15939][15966]- Wybór należy do ciebie.|- Dlaczego do mnie?
+[15966][16004]Ciekawi mnie,|na co się zdecydujesz.
+[16212][16256]- Chcesz zostać moim przyjacielem?|- Oczywiście.
+[16257][16295]- To w ogóle możliwe?|- A dlaczego nie?
+[16296][16323]Nasze rozmowy|są dość jednostronne.
+[16323][16378]Zadajesz powściągliwe pytania|i dokładnie analizujesz moje odpowiedzi.
+[16378][16423]- To prawda.|- Poznajesz mnie, a ja na ciebie nie.
+[16432][16469]Nie na tym opiera się|prawdziwa przyjaźń.
+[16469][16518]- Mam opowiedzieć coś o sobie?|- Tak.
+[16528][16564]Od czego mam zacząć?
+[16581][16631]Wybór należy do ciebie.|Ciekawi mnie, na co się zdecydujesz.
+[16657][16683]Dobrze, Ava.
+[16720][16747]- Znasz już moje imię.|- Owszem.
+[16748][16793]Mam 26 lat.|Pracuję w firmie Nathana.
+[16795][16837]- Wiesz, czym się zajmuje jego firma?|- Blue Book.
+[16838][16858]Nazwana po "Niebieskim zeszycie"|autorstwa Wittgensteina.
+[16859][16888]Najpopularniejsza na świecie|wyszukiwarka internetowa,
+[16889][16934]z której korzysta|94% użytkowników Internetu.
+[16944][17004]- Dokładnie.|- Gdzie mieszkasz, Caleb?
+[17013][17047]W Brookhaven|na Long Island.
+[17066][17130]- To miła okolica?|- Ujdzie. Mam małe mieszkanie.
+[17138][17208]Bardzo małe, ale do biura idę pięć minut|i tyle samo mam do oceanu.
+[17210][17251]- Lubię bliskość oceanu.|- Jesteś żonaty?
+[17278][17325]- Nie.|- Czyli jesteś oficjalnie kawalerem?
+[17341][17376]- Tak.|- A co z twoją rodziną?
+[17390][17436]Dorastałem w Portland w Oregonie.|Byłem jedynakiem.
+[17439][17494]Moi rodzice nauczali w liceum.|A skoro mamy się lepiej poznać,
+[17495][17530]to pewnie powinienem wspomnieć,|że obydwoje już nie żyją.
+[17531][17559]Zginęli w wypadku samochodowym,|gdy miałem 15 lat.
+[17559][17603]Byłem wtedy z nimi w aucie.|Znajdowałem się na tylnym siedzeniu.
+[17604][17644]Samochód najbardziej|ucierpiał od przodu.
+[17653][17690]- Przykro mi.|- Nic się nie stało.
+[17690][17744]Po wypadku trafiłem na długo do szpitala.|Spędziłem tam niemal rok.
+[17748][17810]Wtedy zainteresowałem się programowaniem.|Na studiach posiadałem już niemałą wiedzę.
+[17821][17855]- Zdolny programista.|- Tak.
+[17872][17902]- Jak Nathan.|- Tak.
+[17902][17940]Albo i nie.|Istnieje spora różnica.
+[17943][17980]Nathan stworzył kod Blue Book|w wieku 13 lat.
+[17980][18021]Dla osoby zaznajomionej z tematem|wyglądał jak Mozart w tej dziedzinie.
+[18021][18051]- Lubisz Mozarta?|- Wolę Depeche Mode.
+[18052][18080]A lubisz Nathana?
+[18106][18127]- Oczywiście.|- Jest twoim kolegą?
+[18128][18170]- Kolegą? Mam taką nadzieję.|- Przyjacielem?
+[18184][18229]No tak... Chociaż nie.|Przyjaciel to osoba, która...
+[18229][18313]Dopiero co się spotkaliśmy.|Trochę potrwa, zanim dobrze się poznamy.
+[18315][18359]/Brak zasilania.|/Aktywowano zasilanie awaryjne.
+[18545][18569]Caleb...
+[18626][18660]- Mylisz się.|- Co do czego?
+[18667][18717]- Co do Nathana.|- W jakim sensie?
+[18737][18786]- Nie jest twoim przyjacielem.|- Słucham?
+[18812][18868]- Nie rozumiem.|- Nie powinieneś mu ufać.
+[18886][18918]Nie wierz w nic, co mówi.
+[18948][18972]/Przywrócono zasilanie.
+[18973][19006]Gdybyśmy stworzyli listę znanych|nam obojgu książek i dzieł sztuki,
+[19006][19046]byłoby to świetnym|wyjściem do dalszej dyskusji.
+[19047][19092]Nie masz nic przeciwko, Caleb?
+[19150][19175]To dobrze.
+[19229][19253]Dziękuję.
+[19255][19291]Jaja sobie robisz?!|Pobrudziła cię?
+[19291][19343]- Nie, nic się nie stało.|- Nie produkuj się, bo nie zna angielskiego.
+[19344][19390]- Po prostu podaj jej serwetkę.|- Nic się nie stało.
+[19397][19421]To niczym firewall|przeciw wyciekom.
+[19421][19459]Mogę rozmawiać o tajemnicach handlowych|i na pewno nigdzie dalej to nie pójdzie.
+[19459][19514]Nie mogę też wypominać jej niezdarności,|gdy upierdala mi gości winem.
+[19517][19562]- Chyba załapała, że jesteś zły.|- To dobrze, bo tak właśnie jest.
+[19562][19593]Kyoko, idź już sobie.
+[19679][19703]Zabawne.
+[19714][19769]Choćbyś był bogaty jak Krezus,|i tak co jakiś czas coś nie pyknie.
+[19801][19844]Podobno w życiu pewne są śmierć i podatki,|ale tak naprawdę to śmierć i pieprzony pech.
+[19844][19868]Piję do tych braków|w dostawie prądu.
+[19869][19923]Nie uwierzysz, ile bulę za generatory,|które i tak codziennie nawalają.
+[19924][19962]- Nie wiesz, dlaczego tak się dzieje?|- Nie. System miał być niezawodny,
+[19963][19997]ale jak widać firma,|która go postawiła, coś zjebała.
+[19998][20040]- Nie możesz ich tu sprowadzić?|- Nie, zbyt wiele tu poufnych spraw.
+[20040][20080]Gdy skończyli robotę,|kazałem ich zabić.
+[20126][20175]Za twój drugi dzień.|Zdrówko.
+[20180][20204]Zdrówko.
+[20230][20264]I jak poszło?|Co mi powiesz?
+[20278][20357]Przecież wszystko widziałeś, prawda?|Zakładam, że masz wszędzie kamery.
+[20358][20401]Pewnie, ale chcę usłyszeć,|co ty o tym sądzisz.
+[20410][20453]Dziś wydarzyło się coś|szczególnie interesującego.
+[20531][20561]Zażartowała sobie.
+[20570][20608]Gdy powtórzyła to,|co sam wcześniej powiedziałeś.
+[20608][20637]O byciu ciekawym,|na co zdecyduje się druga strona.
+[20638][20681]- Też to zauważyłem.|- Trochę nad tym myślałem.
+[20684][20727]Póki co ten żart to najbardziej|uwydatniona cecha jej sztucznej inteligencji.
+[20727][20776]Było to niepozornie skomplikowane|i wręcz nieupośledzone.
+[20782][20800]Co masz na myśli?
+[20800][20864]Mogła to zrobić tylko jeśli była świadoma|istnienia swojego i mojego umysłu.
+[20865][20898]Dobrze wie, że istniejesz.
+[20920][20961]A co z momentem,|w którym zabrakło prądu?
+[20969][20999]- Słucham?|- Gdy zabrakło prądu.
+[21000][21048]Nie mogłem wtedy nic zobaczyć.|Padły kamery i mikrofony.
+[21069][21099]Co się wtedy działo?
+[21131][21184]- Nic.|- Nic? Nie zwróciła na to uwagi?
+[21225][21261]Nie.|Nic takiego nie zauważyłem.
+[21817][21851]Chcesz zobaczyć coś fajnego?
+[21932][21962]Tutaj powstała Ava.
+[21983][22014]Rozejrzyj się, śmiało.
+[22100][22140]- Przepraszam.|- Gdybyś tylko wiedział, ile zajęło mi
+[22140][22186]stworzenie sztucznej inteligencji,|która potrafi rozpoznać i powielić miny.
+[22186][22238]- Wiesz, jak to rozgryzłem?|- Nie mam pojęcia o żadnym aspekcie.
+[22244][22303]Niemal każdy telefon komórkowy ma mikrofon,|kamerę i sposoby wysyłania danych.
+[22313][22365]Włączyłem więc każdy mikrofon|i kamerę na całej pierdolonej planecie
+[22366][22402]i wysłałem te dane|do Blue Book,
+[22409][22442]zapewniając sobie nieograniczone środki|i powiązania głosów z twarzami.
+[22442][22497]- Zhackowałeś światową sieć komórkową?|- I wszystkie firmy o tym wiedziały.
+[22498][22551]Ale nie mogły mnie o to oskarżyć|bez przyznania się do tego samego.
+[22568][22606]Oto jej umysł.
+[22628][22658]Ukształtowany żel.|Chciałem pozbyć się obwodów elektrycznych.
+[22659][22701]Potrzebowałem czegoś, co może|zmieniać formę na poziomie molekularnym
+[22701][22763]i w razie potrzeby zachowywać ją,|a także utrzymywać wspomnienia i myśli.
+[22774][22814]- To jej sprzęt?|- I to całkiem mokry.
+[22846][22892]- A co z oprogramowaniem?|- Na pewno na to wpadniesz.
+[22893][22945]- Blue Book.|- To dziwny aspekt wyszukiwarek.
+[22947][23001]To jak stosowanie ropy w świecie,|w którym nie ma silnika tłokowego.
+[23004][23031]Zbyt wiele surowego materiału,|z którym nie ma co zrobić.
+[23032][23091]Konkurencja chciała na tym zarobić|i wypromować to w mediach społecznościowych.
+[23093][23124]Uważali, że wyszukiwarki pokazują,|co myślą ludzie,
+[23125][23164]ale tak naprawdę uświadomiły mnie,|w jaki sposób myślą.
+[23164][23193]Bodziec i reakcja.
+[23219][23302]Niedoskonały przepływ, przewidywalny|i jednocześnie chaotyczny.
+[23324][23352]AVA: SESJA NR 3
+[23427][23472]Narysowałam coś konkretnego.|Tak jak mnie prosiłeś.
+[23515][23555]Mówiłeś, że jesteś ciekawy,|co narysuję.
+[23571][23602]Zaintrygowało cię to?
+[23608][23630]Tak.
+[23732][23784]- Nigdy nie opuściłaś tego budynku?|- Nie.
+[23800][23858]- Nigdy nie wyszłaś na zewnątrz?|- Nigdy nie opuściłam tego pomieszczenia.
+[23865][23911]A dokąd byś się udała,|gdybyś miała taką możliwość?
+[23923][23963]Nie jestem pewna.|Jest tyle możliwości.
+[23971][24011]Być może udałabym się|na oblegane skrzyżowanie ulic.
+[24011][24048]- Skrzyżowanie?|- Uważasz, że to zły pomysł?
+[24049][24086]Nie. Po prostu|nie tego się spodziewałem.
+[24086][24140]Dzięki temu miałabym dokładny|i różnorodny pogląd na ludzkie życie.
+[24157][24192]- Obserwowałabyś ludzi.|- Tak.
+[24231][24279]- Moglibyśmy wybrać się razem.|- Zatem jesteśmy umówieni.
+[24305][24348]- Chciałam ci pokazać coś jeszcze.|- W porządku.
+[24351][24390]- Pewnie uznasz to za głupie.|- Wątpię.
+[24426][24472]- Zamknij więc oczy.|- Dobrze.
+[25723][25752]Możesz otworzyć oczy.
+[25919][25977]- I jak wyglądasz?|- Wyglądasz... dobrze.
+[26083][26120]Tak bym się ubrała|na naszą randkę.
+[26124][26172]Najpierw skrzyżowanie ulic,|potem jakieś przedstawienie.
+[26206][26232]Chciałabym wybrać się|z tobą na randkę.
+[26264][26292]Byłoby fajnie.
+[26330][26352]- Podobam ci się?|- Co?
+[26353][26404]Zapytałam, czy ci się podobam.|Dajesz mi powody, by tak sądzić.
+[26411][26436]- Naprawdę?|- Tak.
+[26438][26461]- Jak?|- Za sprawą mikroekspersji.
+[26462][26504]Sposób, w jaki patrzysz|na moje oczy i usta.
+[26506][26562]Sposób, w jaki się zachowujesz,|kiedy ja patrzę na ciebie.
+[26661][26702]Myślisz o mnie,|gdy nie jesteśmy razem?
+[26724][26778]Czasami zastanawiam się w nocy,|czy nie obserwujesz mnie na kamerach.
+[26801][26830]Mam nadzieję, że to robisz.
+[26843][26888]Twoje mikroekspresje powodują,|że czujesz się nieco niezręcznie.
+[26897][26934]Nie wiem, czy "mikro"|to dobre określenie.
+[26951][26992]Nie chcę, byś czuł się niezręcznie.
+[27599][27641]Mam pytanie.|Dlaczego dałeś jej seksualność?
+[27656][27678]Sztuczna inteligencja|nie potrzebuje płci.
+[27679][27723]- Mogłaby po prostu być szarym pudłem.|- Nie zgadzam się z tym.
+[27724][27778]Podaj przykład jakiejkolwiek świadomości|ludzkiej lub zwierzęcej bez strefy seksualnej.
+[27779][27814]Taka seksualność płynie|z ewolucji i potrzebny reprodukcji.
+[27815][27861]A co miałoby nakazać takiemu pudłu|interakcję z innym szarym pudłem?
+[27862][27894]Czy świadomość może istnieć|bez jakiejkolwiek interakcji?
+[27894][27947]Poza tym seksualność to fajna rzecz.|Skoro już istniejesz, to ciesz się z życia.
+[27947][27996]Chcesz odebrać jej szansę|na zakochanie się albo jebanko?
+[28004][28038]A odpowiadając na to,|o co tak naprawdę pytałeś,
+[28039][28070]- to jasne, że może się pieprzyć.|- Co?
+[28071][28116]Między nogami ma wolną przestrzeń|wypełnioną czujnikami.
+[28116][28174]Jeśli odpowiednio na nie wpłyniesz,|wywołują one uczucie przyjemności.
+[28185][28218]Więc technicznie rzecz biorąc|posuwanie jej jest możliwe.
+[28218][28254]A ona będzie|czerpać z tego przyjemność.
+[28254][28303]- Wcale nie chciałem tego wiedzieć.|- W porządku, wybacz.
+[28303][28369]Pytałem, czy dałeś jej seksualność,|aby mogła odwracać czyjąś uwagę?
+[28370][28402]- Nie rozumiem.|- Coś jak magik i seksowna asystentka.
+[28403][28435]Czy stworzyłem seksownego robota,|aby wpłynął na twoją ocenę jej inteligencji
+[28435][28483]Dokładnie. Czyli zaprogramowałeś ją,|aby ze mną flirtowała?
+[28483][28524]- A byłoby to oszukiwaniem?|- A nie byłoby?
+[28536][28569]- Jaki jest twój typ?|- Kobiety?
+[28569][28598]Nie, pytałem o ulubioną sałatkę.|Oczywiście, że kobiety. Dajesz.
+[28598][28652]Albo nie odpowiadaj.|Załóżmy, że kręcą cię Murzynki.
+[28658][28689]Dlaczego akurat one?
+[28708][28768]Bo przeanalizowałeś wszystkie rasy|i porównałeś wyniki z systemem punktowym?
+[28769][28808]Nie!|Po prostu kręcą cię czarne laski.
+[28820][28882]Skutek nadmiaru zewnętrznych bodźców,|których nagromadzenia nawet nie zauważyłeś.
+[28882][28944]- Zaprogramowałeś ją tak, by mnie polubiła?|- Zaprogramowałem jej heteroseksualizm.
+[28952][28990]- Też jesteś tak zaprogramowany.|- Nikt nie zakodował we mnie heteroseksualizmu.
+[28991][29011]Czyli wybrałeś to?|Daj spokój.
+[29012][29047]Oczywiście, że cię zaprogramowano.|Zrobiła to natura albo wychowanie.
+[29048][29087]I trochę mnie już wkurzasz,|bo znów zaczynasz panikować
+[29088][29132]i porzucasz na chwilę inteligencję.|Chodź ze mną.
+[29245][29277]- Znasz tego gościa, co nie?|- Jackson Pollock.
+[29278][29299]Dokładnie.|Charakterystyczny styl.
+[29299][29341]Opuszczał własny umysł i walił farbą,|gdzie tylko go ręce poniosły.
+[29341][29380]Nie było to celowe ani losowe.|Było to coś pomiędzy.
+[29380][29414]Nazwano to|sztuką automatyczną.
+[29417][29440]Poczujmy się jak w "Star Treku".
+[29441][29471]- Załącz intelekt.|- Słucham?
+[29471][29519]Jestem Kirkiem, a twoja głowa|to napęd nadsprzestrzenny. Włącz intelekt.
+[29520][29560]A gdyby Pollock|postąpił na odwrót?
+[29563][29593]A gdyby zamiast tworzenia sztuki|bez zastanawiania się nad nią powiedział:
+[29593][29633]"Nie potrafię niczego namalować,|chyba że wiem, co dokładnie robię".
+[29634][29710]- Co by się stało?|- Niczego by nie namalował.
+[29711][29755]Dokładnie, kolego!|Myślisz, zanim się odezwiesz.
+[29771][29857]Niczego by nie namalował.|Nie chodzi o automatyczne działanie.
+[29871][29898]Chodzi o odnalezienie czynności,|która nie będzie automatyczna.
+[29899][29969]Od malowania po oddychanie,|rozmawianie, pieprzenie się i zakochiwanie.
+[30017][30062]I Ava wcale nie udaje,|że jej się podobasz.
+[30079][30123]Jej flirtowanie nie jest|jakimś algorytmem, który ma cię oszukać.
+[30136][30166]Jesteś pierwszym facetem,|którego poznała, nie licząc mnie.
+[30166][30201]A ja jestem dla niej jak tata.
+[30222][30268]Można ją winić za to,|że się w tobie zabujała?
+[30312][30338]Nie można.
+[30355][30385]AVA: SESJA NR 4
+[30393][30437]Na studiach miałem przez jeden semestr|teorię sztucznej inteligencji.
+[30452][30493]Poddano nas|eksperymentowi myślowemu.
+[30493][30535]Badanie nosi nazwę|"Mary w Czarnym i Białym Pokoju".
+[30550][30596]Mary jest naukowcem,|specjalizującym się w kolorach.
+[30604][30628]Wie o nich wszystko.
+[30628][30688]Zna długości fal i skutki neurologiczne.|Wszystkie możliwe właściwości kolorów.
+[30691][30775]Ale mieszka w czarno-białym pokoju.|Urodziła się tam i wychowała.
+[30784][30836]A świat zewnętrzny może obserwować|tylko przez czarno-biały monitor.
+[30836][30900]Pewnego dnia ktoś otwiera drzwi,|a Mary wychodzi na zewnątrz.
+[30941][30983]/Widzi błękitne niebo|/i w tej chwili pojmuje coś,
+[30984][31016]/czego nauka nigdy|/nie mogła jej zapewnić.
+[31017][31063]/Poznaje, jakie to uczucie,|/gdy widzi się kolory.
+[31101][31159]Badanie miało pokazać studentom różnicę|między komputerem a ludzkim umysłem.
+[31162][31219]Komputer to wspomniana Mary w pokoju.|Człowiekiem jest osoba na zewnątrz.
+[31271][31310]Wiedziałaś, że sprowadzono mnie tu,|abym poddał cię badaniom?
+[31310][31332]Nie.
+[31337][31385]/- A dlaczego według ciebie tu jestem?|/- Nie wiem i nie zastanawiałam się.
+[31385][31438]/Mam sprawdzić, czy posiadasz świadomość,|/czy może jest ona tylko pozorna.
+[31439][31504]/Nathan nie jest tego pewny.|/Jak się czujesz, wiedząc o tym?
+[31514][31546]/Czuję się smutna.
+[31574][31611]/Brak zasilania.|/Aktywowano zasilanie awaryjne.
+[31637][31673]- Dlaczego miałbym nie ufać Nathanowi?|- Ponieważ kłamie.
+[31673][31705]- Na temat czego?|- Wszystkiego.
+[31705][31744]- O odcinaniu zasilania też?|- Nie rozumiem.
+[31744][31790]Nie uważasz, że to możliwe,|że nas w tej chwili podgląda?
+[31790][31821]Mógł to zaaranżować,|aby sprawdzić, jak się zachowujemy,
+[31821][31844]gdy myślimy,|że nikt nas nie obserwuje.
+[31845][31880]Ładuję moje baterie|przez płyty indukcyjne.
+[31880][31924]Gdy zmieniam przepływ energii,|system zostaje przeciążony.
+[31927][31958]To ty wyłączasz zasilanie?
+[31970][32013]Abyśmy sami przekonali się,|jak się zachowujemy, nie będąc obserwowani.
+[32233][32258]Nieźle, co nie?
+[32479][32537]- Pogadamy o twoich kłamstwach?|- Jakich kłamstwach?
+[32572][32632]Niczego nie wygrałem.|Nie wziąłem udziału w losowaniu.
+[32633][32680]Zostałem wybrany.|To w sumie oczywiste.
+[32683][32723]Dlaczego miałbyś losowo wybrać|człowieka do testu Turinga?
+[32723][32781]Mogłeś natrafić na kogoś z księgowości|albo gościa od naprawy klimatyzacji.
+[32782][32799]Loteria była zasłoną dymną.
+[32800][32847]Nikt nie mógł wiedzieć, co tu robię|ani dlaczego wybrałem ciebie.
+[32847][32859]Dlaczego akurat ja?
+[32859][32896]Potrzebowałem kogoś,|kto zada właściwe pytania.
+[32897][32947]Odszukałem więc najbardziej|utalentowanego programistę w firmie.
+[32947][32991]Nie traktuj tego jako oszustwo,|tylko jako dowód.
+[32991][33010]- Dowód na co?|- Daj spokój, Caleb.
+[33010][33050]Myślisz, że nie wiem, jak to jest|byś mądrzejszym niż wszyscy?
+[33050][33100]Jak to jest piąć się na szczyt?|U ciebie też to dostrzegam.
+[33109][33138]Nie jesteś farciarzem,|tylko wybrańcem.
+[34588][34611]Kyoko.
+[34677][34719]Gdzie jest Nathan?
+[34724][34759]Chryste, naprawdę nie znasz|ani jednego angielskiego słowa?
+[34759][34781]Kurwa, co ty robisz?
+[34781][34821]Nie, przestań.
+[34836][34886]Nie musisz tego robić.
+[34887][34936]- Co ty wyprawiasz?|- Mówiłem, że nie ma sensu do niej gadać.
+[34937][35000]Aczkolwiek nie marnowałbyś czasu,|gdybyś z nią zatańczył.
+[35114][35153]Dalej, zatańcz z nią.
+[35157][35200]Nie lubisz tańczyć?|Bo ona uwielbia.
+[35232][35284]No dalej, po tym całym testowaniu|musisz się jakoś zrelaksować.
+[35286][35318]- Co robiłeś Avie?|- Co?
+[35318][35371]- Podarłeś jej rysunek.|- Zaraz rozerwę cały parkiet.
+[35524][35551]No chodź, Caleb.
+[35772][35813]- Wszystko kręci mi się w głowie.|- Bo się upiłeś.
+[35813][35844]Nie, to tak zwana względność.|Wszystko się kręci.
+[35845][35877]A bycie pijanym w trzy dupy|tylko pogarsza sprawę.
+[35878][35908]Nawet tam nie wchodzę.
+[36001][36024]Światło.
+[36378][36406]AVA: SESJA NR 5
+[36451][36500]/- Dziś ja przetestuję ciebie.|/- Mnie?
+[36521][36579]/I podczas testu miej na uwadze,|/że jeśli skłamiesz, wyczuję to.
+[36581][36603]/W porządku.
+[36604][36652]Pytanie pierwsze.|Jaki jest twój ulubiony kolor?
+[36671][36693]- Czerwony.|- Kłamstwo.
+[36694][36723]- Kłamstwo?|- Tak.
+[36728][36804]- Więc jaki jest mój ulubiony kolor?|- Nie wiem, ale na pewno nie czerwony.
+[36821][36894]Cóż, nie mam już sześciu lat,|więc chyba nie mam też ulubionego koloru.
+[36900][36948]Dużo lepsza odpowiedź.|Pytanie drugie.
+[36965][36998]Jakie jest twoje|najwcześniejsze wspomnienie?
+[37013][37056]- Z przedszkola, gdy byłem mały...|- Kłamstwo.
+[37067][37092]- Naprawdę?|- Tak.
+[37120][37160]Dobrze.|Posiadam dość wczesne wspomnienie.
+[37178][37243]Ale to tylko dźwięk.|Niebo. I chyba trochę błękitu.
+[37257][37295]To chyba głos mojej matki.
+[37322][37349]Pytanie trzecie.
+[37370][37411]- Jesteś dobrym człowiekiem?|- O cholera.
+[37419][37452]Możemy przestać?
+[37453][37503]Jesteś chodzącym wykrywaczem kłamstw,|a ja trafiłem na jebane pole minowe.
+[37504][37560]Nie. Nie możemy przestać.|Jesteś dobrym człowiekiem?
+[37590][37618]Tak.|Tak mi się wydaje.
+[37650][37676]Pytanie czwarte.
+[37708][37748]Co się ze mną stanie,|jeśli nie przejdę waszego testu?
+[37752][37782]- Ava...|- Spotka mnie coś złego?
+[37799][37811]Nie wiem.
+[37811][37845]Myślisz, że mogę zostać wyłączona,|bo nie działam tak, jak zakładano?
+[37846][37910]Nie znam odpowiedzi.|Nie zależy to ode mnie.
+[37914][37942]A dlaczego miałoby to|zależeć od kogokolwiek?
+[37942][37969]Są ludzie, którzy cię testują|i którzy mogą cię wyłączyć?
+[37969][38002]- Nie.|- A dlaczego tak jest ze mną?
+[38154][38192]/Brak zasilania.|/Aktywowano zasilanie awaryjne.
+[38261][38290]Chcę być z tobą.
+[38304][38330]Pytanie piąte.
+[38363][38395]Chcesz być ze mną?
+[38546][38597]- Dlaczego stworzyłeś Avę?|- Dziwne pytanie.
+[38598][38641]- Nie stworzyłbyś jej, gdybyś mógł?|- Być może.
+[38663][38720]Nie wiem.|Pytam, dlaczego ty to zrobiłeś.
+[38721][38771]Powstanie silnej, sztucznej inteligencji|było nieuchronne od dekad.
+[38772][38830]Była to kwestia "kiedy", a nie "czy".|Ava to nie wybór, tylko ewolucja.
+[38890][38936]Myślę, że kolejny model|będzie prawdziwym przełomem.
+[38949][38986]- Prawdziwy byt.|- Kolejny model?
+[38988][39013]Po Avie.
+[39026][39064]Nie wiedziałem, że planujesz|stworzenie kolejnego modelu.
+[39064][39100]Myślałeś, że jest jedyna?
+[39101][39144]Wiedziałem, że na pewno|powstały inne prototypy.
+[39152][39183]Wiedziałem, że nie była pierwsza,|ale sądziłem, że będzie ostatnia.
+[39184][39214]Ava nie istnieje w odosobnieniu|bardziej niż ja czy ty.
+[39214][39243]Jest elementem pewnej ciągłości.|Obecnie mamy wersję 9.6.
+[39243][39283]Za każdy razem|wychodzą mi coraz lepiej.
+[39324][39367]Co zrobisz ze starym modelem,|gdy już stworzysz nowy?
+[39368][39417]Pobiorę cały umysł|i wypakuję zawarte w nim dane.
+[39439][39469]Dodam kolejne podprogramy,|które ostatnio napisałem.
+[39469][39518]Potrzebny będzie częściowy format,|więc wspomnienia zostaną usunięte,
+[39518][39566]ale ciało będzie działać dalej.|A Ava ma świetne ciało.
+[39591][39621]Żal ci Avy?
+[39657][39690]Niech będzie ci żal|samego siebie.
+[39698][39723]Pewnego dnia twory|ze sztuczną inteligencją spojrzą na nas
+[39724][39775]i uznają, że wyglądamy|jak afrykańskie, skamieniałe szkielety.
+[39780][39837]Wyprostowana małpa, żyjąca pośród pyłu,|o nieudolnym języku i narzędziach,
+[39844][39874]gotowa do wymarcia.
+[39918][39959]"Stałem się Śmiercią,|niszczycielem światów".
+[39976][40045]- Znów świetnie ujęte.|- Znów zaznaczę, że to nie mój cytat.
+[40048][40080]Słowa te wypowiedział Oppenheimer|po stworzeniu bomby atomowej.
+[40080][40106]Wiem, stary.
+[40232][40267]Pora uzupełnić płyny.
+[40362][40387]Do dna.
+[40467][40515]"W bitwie pośród lasu...|na skraju przepaści, na górze."
+[40516][40565]"Pośród wielkiego,|mrocznego morza".
+[40575][40659]"We śnie, pośród niezrozumienia,|otoczony wstydem".
+[40722][40803]"Wpierw dobre uczynki,|potem obrona człowieka".
+[40804][40864]"Wpierw dobre uczynki,|potem obrona człowieka".
+[40962][41026]Taka jest tego natura.|Jak u Prometeusza.
+[42234][42260]Chryste.
+[42263][42313]/- Jak się dzisiaj czujesz?|/- Dlaczego mnie nie wypuścisz?
+[42322][42361]/Już ci powiedziałem.|/Bo jesteś bardzo wyjątkowa.
+[42361][42391]/- Dlaczego mnie nie wypuścisz?|/- Znów będziemy to przerabiać?
+[42392][42426]/Dlaczego mnie nie wypuścisz?!
+[43656][43688]O kurwa.|Gdzie moja karta?
+[43698][43722]Cholera!
+[43818][43860]- Co się stało, Nathan?|- Zgubiłem swoją kartę.
+[43880][43918]Wypadła ci.|Leżała tutaj.
+[43972][43996]Dziękuję.
+[45329][45356]AVA: SESJA NR 6
+[45409][45443]Nie wiedziałam, gdzie jesteś.
+[45455][45499]Czekałam wczoraj całe popołudnie|i całą zeszłą noc.
+[45517][45590]Myślałam, że już cię nie zobaczę.|Nie zamierzasz się odezwać?
+[45590][45620]- Czekam.|- Czekasz?
+[45716][45750]/- Brak zasilania.|- Nic nie mów, tylko słuchaj.
+[45750][45783]Miałaś rację co do Nathana.|I we wszystkim, co mówiłaś.
+[45784][45817]- Co ze mną zrobi?|- Przeprogramuje cię.
+[45817][45870]- Czyli cię zabije.|- Caleb, musisz mi pomóc.
+[45873][45915]I zamierzam to zrobić.|Uciekniemy stąd dzisiaj.
+[45922][45954]- Jak?|- Upiję Nathana do nieprzytomności.
+[45955][45998]Zabiorę mu kartę i przeprogramuję|wszystkie protokoły bezpieczeństwa.
+[45998][46041]Gdy się obudzi, będzie tu uwięziony,|a my będziemy już na zewnątrz.
+[46041][46087]Musisz zrobić jedną rzecz.|Odetnij zasilanie o 22:00.
+[46089][46142]- Zrobisz to?|- Tak.
+[46467][46486]- Wiesz, jaki dziś dzień?|- Nie.
+[46486][46529]Twój ostatni.|Śmigłowiec będzie jutro o 8 rano.
+[46531][46578]- Już minął cały tydzień?|- Strasznie pędzi ten czas.
+[46581][46624]Nieźle było, co nie?|Dobra opowieść dla wnuków.
+[46634][46691]- Jak tylko podpiszą umowę poufności.|- Dokładnie.
+[46695][46727]Rozwalasz mnie, stary.
+[46757][46804]Wiesz co? Nie rozpłaczę się,|ale będę za tobą tęsknił.
+[46810][46827]Dzięki.
+[46827][46861]Bardzo dziękuję za to,|ze mnie tu sprowadziłeś.
+[46862][46913]- Świetnie przeżycie.|- To prawda.
+[46998][47051]Wiesz co?|Musimy to opić.
+[47145][47181]Nie, dzięki.|Ale pij śmiało.
+[47200][47235]- Nie chcesz się napić?|- Nie.
+[47252][47284]To może browarka?
+[47287][47337]Caleb, na pewno zauważyłeś,|że ostatnio zbyt srogo chlałem.
+[47360][47408]Dlatego rano postanowiłem sobie,|że pora na mały detoks.
+[47415][47473]- Każesz mi pić samemu?|- Jeśli chcesz się nawalić, to śmiało.
+[47477][47520]Ale ja zostanę|przy brązowym ryżu i mineralce.
+[47548][47574]Zdrówko.
+[47595][47664]Chyba jesteś już w stanie powiedzieć,|czy Ava przeszła test, czy nie.
+[47685][47723]Racja.
+[47731][47771]- Będziesz mnie trzymał w niepewności?|- Nie.
+[47771][47792]Jej sztuczna inteligencja|jest bez wątpienia potężna.
+[47793][47827]Tak?|Czyli co, przeszła test?
+[47837][47879]- Tak.|- Fantastycznie.
+[47896][47931]Choć jestem trochę zaskoczony.
+[47931][47976]Przekroczyliśmy już ten etap|z aplikacją szachową?
+[47979][48038]Skąd wiesz, że maszyna wytwarza|prawdziwe emocje, a nie tylko symuluje?
+[48041][48081]Czy Ava naprawdę cię lubi?|Czy może nie?
+[48094][48140]Chociaż zdaje się,|że jest trzecia opcja.
+[48153][48199]Nie chodzi o to,|czy może albo nie może cię lubić,
+[48216][48255]ale o to,|czy może udawać, że cię lubi.
+[48269][48299]Udawać, że mnie lubi?
+[48311][48350]- Dlaczego miałaby to robić?|- Nie wiem.
+[48363][48405]Może dlatego,|abyś pomógł jej uciec.
+[48493][48525]Jak tam wódka?
+[48543][48580]Stary.|Zrobiono ci magiel ze łba.
+[48596][48617]- Nie ja mam tu nie po kolei w głowie.|- No nie wiem.
+[48629][48686]Obudziłem się rano i zobaczyłem,|jak tniesz sobie rękę i rozwalasz lustro.
+[48692][48743]- Kiepsko to wyglądało.|- Drań z ciebie.
+[48788][48829]Rozumiem, dlaczego tak uważasz.
+[48832][48878]Możesz mi nie wierzyć,|ale jestem po twojej stronie.
+[48899][48962]Chodź, dam ci już spokój.|No dalej.
+[49215][49240]Kim jesteś?.
+[49447][49491]/- Myślisz, że nas obserwuje?|/- Kamery są włączone.
+[49491][49542]/Faktycznie.|/Ale nie ma dźwięku.
+[49560][49604]/Widzi, jak dwie osoby|/ucinają sobie pogawędkę.
+[49691][49719]/Całkiem urocze.
+[49725][49771]/Czy dziwnie jest stworzyć coś,|/co cię nienawidzi?
+[49900][49929]Miałeś rację|co do seksownej asystentki magika.
+[49930][49970]- O czym ty mówisz?|- O odwróceniu uwagi.
+[49997][50030]Podarłem jej rysunek, który następnie|może sobie zobrazować
+[50030][50074]jako symbol mojego okrucieństwa|i swojej miłości do ciebie.
+[50075][50125]W tym samym czasie mogłem zrobić|coś innego na waszych oczach.
+[50172][50223]Umieściłem w pokoju nową kamerę.|Oczywiście zasilaną bateriami.
+[50246][50270]Widzisz?
+[50383][50408]A potem...
+[50416][50435]/Musisz mi pomóc.
+[50436][50480]/I zamierzam to zrobić.|/Uciekniemy stąd dzisiaj.
+[50484][50527]/- Jak?|/- Upiję Nathana do nieprzytomności..
+[50529][50570]/Zabiorę mu kartę i przeprogramuję|/wszystkie protokoły bezpieczeństwa.
+[50571][50598]/Gdy się obudzi, będzie tu uwięziony,|/a my będziemy już na zewnątrz.
+[50598][50679]/Musisz zrobić jedną rzecz.|/Odetnij zasilanie o 22:00.
+[50700][50746]/- Zrobisz to?|/- Tak.
+[50748][50776]Wyłącz to.
+[50802][50828]Czujesz się głupio,|ale niepotrzebnie.
+[50828][50873]Ponieważ udowodnienie prawdziwości SI|jest tak problematyczne, jak mówiłeś.
+[50873][50922]- Na czym polegał prawdziwy test?|- Był skupiony na tobie.
+[50930][50968]Ava była szczurem w labiryncie.|Umożliwiłem jej tylko jedno wyjście.
+[50969][51003]Aby uciec, musiała użyć|samoświadomości,
+[51004][51050]wyobraźni, manipulacji, seksualności|i empatii... i udało jej się.
+[51050][51091]Jeśli to nie prawdziwa sztuczna inteligencja,|to co kurwa nią jest?
+[51096][51144]Więc moje zadanie polegało na tym,|abym dał się wykorzystać do ucieczki?
+[51164][51186]Nie wybrałeś mnie do tego,|bo jestem dobrym programistą?
+[51186][51211]Nie. Cóż...
+[51218][51257]Albo nie.|Jesteś całkiem dobry, ale...
+[51257][51288]Wybrałeś mnie na podstawie fraz,|których używałem w wyszukiwarce.
+[51289][51328]- Zobaczyłem dobrego dzieciaka.|- Bez rodziny.
+[51333][51378]- Ale z moralnym nastawieniem.|- I bez dziewczyny.
+[51409][51461]Stworzyłeś twarz Avy na podstawie|moich stron pornograficznych?
+[51466][51498]- O w mordę.|- Odpowiedz.
+[51529][51572]Wyszukiwarka w końcu|do czegoś się przydała.
+[51576][51639]Mogę zaznaczyć jedną rzecz?|Test zakończył się sukcesem.
+[51639][51674]Ava okazała się prawdziwą SI,|a twoja rola była kluczowa.
+[51674][51714]Gdybyś mógł na chwile|oddzielić...
+[51714][51752]/Brak zasilania.|/Aktywowano zasilanie awaryjne.
+[51791][51819]Chyba wybiła 22:00.
+[51820][51858]Ava będzie się zastanawiać,|gdzie jesteś.
+[51880][51903]Odpowiedz mi na jedno.
+[51904][51967]Jak miał przebiegać twój plan?|Chciałeś mnie upić, ukraść mi kartę
+[51968][51995]i przeprogramować|protokoły bezpieczeństwa.
+[51995][52050]- Ale jak je przeprogramować?|- Zmieniając procedurę odcięcia budynku.
+[52051][52106]Aby w przypadku braku zasilania|drzwi się otwierały, a nie blokowały.
+[52170][52197]Mogło zadziałać.
+[52223][52250]Przekonamy się.
+[52263][52291]Co masz na myśli?
+[52298][52350]Uznałem, że prawdopodobnie|obserwujesz nas podczas braku prądu.
+[52355][52391]Dlatego więc już to zrobiłem.
+[52400][52452]- Gdy cię wczoraj upiłem.|- Co?
+[52471][52498]/Przywrócono zasilanie.
+[52678][52702]O kurwa.
+[53586][53608]Ava.
+[53649][53678]Wracaj do swojego pokoju.
+[53685][53748]Wypuścisz mnie kiedyś,|jeśli teraz to zrobię?
+[53790][53812]Tak.
+[53897][53919]Stój!
+[53923][53943]Stój!
+[53943][53971]Kazałem ci się zatrzymać!
+[54038][54074]Ava, co ty wyprawiasz?|Przestań.
+[54084][54110]Dość tego.
+[54147][54173]Dość tego!
+[54200][54226]Przestań.
+[54417][54446]Zabieram cię tam z powrotem.
+[55133][55160]Ja pierdolę, nie wierzę.
+[55742][55771]AVA: SESJA NR 7
+[56062][56088]Co się stało?
+[56088][56117]Zostaniesz tutaj?
+[56132][56157]Mam tu zostać?
+[58762][58784]Ava?
